@@ -1,0 +1,2202 @@
+name,weekday,income
+Abraham Bennet,monday   ,1210654
+Albert Ringer,monday   ,3444572
+Ann Dull,monday   ,164674
+Anne Ringer,monday   ,242064
+Burt Gringlesby,monday   ,504627
+Charlene Locksley,monday   ,454098
+Cheryl Carson,monday   ,364539
+Dean Straight,monday   ,1614410
+Dirk Stringer,monday   ,3377667
+Heather McBadden,monday   ,2569639
+Innes del Castillo,monday   ,1128213
+Johnson White,monday   ,598819
+Livia Karsen,monday   ,2082432
+Marjorie Green,monday   ,436182
+Meander Smith,monday   ,382691
+Michael O'Leary,monday   ,869911
+Michel DeFrance,monday   ,2082531
+Morningstar Greene,monday   ,676397
+Reginald Blotchet-Halls,monday   ,443802
+Sheryl Hunter,monday   ,678282
+Stearns MacFeather,monday   ,294563
+Sylvia Panteley,monday   ,896607
+Abraham Bennet,tuesday  ,2421265
+Albert Ringer,tuesday  ,6889145
+Ann Dull,tuesday  ,329347
+Anne Ringer,tuesday  ,484128
+Burt Gringlesby,tuesday  ,1009254
+Charlene Locksley,tuesday  ,908196
+Cheryl Carson,tuesday  ,729078
+Dean Straight,tuesday  ,3228820
+Dirk Stringer,tuesday  ,6755334
+Heather McBadden,tuesday  ,5139278
+Innes del Castillo,tuesday  ,2256425
+Johnson White,tuesday  ,1197638
+Livia Karsen,tuesday  ,4164865
+Marjorie Green,tuesday  ,872364
+Meander Smith,tuesday  ,765382
+Michael O'Leary,tuesday  ,1739822
+Michel DeFrance,tuesday  ,4165063
+Morningstar Greene,tuesday  ,1352795
+Reginald Blotchet-Halls,tuesday  ,887603
+Sheryl Hunter,tuesday  ,1356564
+Stearns MacFeather,tuesday  ,589126
+Sylvia Panteley,tuesday  ,1793214
+Abraham Bennet,wednesday,3631877
+Albert Ringer,wednesday,10333717
+Ann Dull,wednesday,494021
+Anne Ringer,wednesday,726191
+Burt Gringlesby,wednesday,1513882
+Charlene Locksley,wednesday,1362294
+Cheryl Carson,wednesday,1093617
+Dean Straight,wednesday,4843230
+Dirk Stringer,wednesday,10133001
+Heather McBadden,wednesday,7708917
+Innes del Castillo,wednesday,3384638
+Johnson White,wednesday,1796457
+Livia Karsen,wednesday,6247297
+Marjorie Green,wednesday,1308546
+Meander Smith,wednesday,1148072
+Michael O'Leary,wednesday,2609734
+Michel DeFrance,wednesday,6247594
+Morningstar Greene,wednesday,2029192
+Reginald Blotchet-Halls,wednesday,1331405
+Sheryl Hunter,wednesday,2034847
+Stearns MacFeather,wednesday,883690
+Sylvia Panteley,wednesday,2689821
+Abraham Bennet,thursday ,4842489
+Albert Ringer,thursday ,13778289
+Ann Dull,thursday ,658694
+Anne Ringer,thursday ,968255
+Burt Gringlesby,thursday ,2018509
+Charlene Locksley,thursday ,1816392
+Cheryl Carson,thursday ,1458155
+Dean Straight,thursday ,6457639
+Dirk Stringer,thursday ,13510669
+Heather McBadden,thursday ,10278556
+Innes del Castillo,thursday ,4512850
+Johnson White,thursday ,2395276
+Livia Karsen,thursday ,8329730
+Marjorie Green,thursday ,1744728
+Meander Smith,thursday ,1530763
+Michael O'Leary,thursday ,3479645
+Michel DeFrance,thursday ,8330126
+Morningstar Greene,thursday ,2705590
+Reginald Blotchet-Halls,thursday ,1775206
+Sheryl Hunter,thursday ,2713129
+Stearns MacFeather,thursday ,1178253
+Sylvia Panteley,thursday ,3586428
+Abraham Bennet,friday   ,6053101
+Albert Ringer,friday   ,17222862
+Ann Dull,friday   ,823368
+Anne Ringer,friday   ,1210319
+Burt Gringlesby,friday   ,2523136
+Charlene Locksley,friday   ,2270490
+Cheryl Carson,friday   ,1822694
+Dean Straight,friday   ,8072049
+Dirk Stringer,friday   ,16888336
+Heather McBadden,friday   ,12848195
+Innes del Castillo,friday   ,5641063
+Johnson White,friday   ,2994095
+Livia Karsen,friday   ,10412162
+Marjorie Green,friday   ,2180910
+Meander Smith,friday   ,1913454
+Michael O'Leary,friday   ,4349556
+Michel DeFrance,friday   ,10412657
+Morningstar Greene,friday   ,3381987
+Reginald Blotchet-Halls,friday   ,2219008
+Sheryl Hunter,friday   ,3391411
+Stearns MacFeather,friday   ,1472816
+Sylvia Panteley,friday   ,4483036
+Abraham Bennet,saturday ,7263713
+Albert Ringer,saturday ,20667434
+Ann Dull,saturday ,988042
+Anne Ringer,saturday ,1452383
+Burt Gringlesby,saturday ,3027763
+Charlene Locksley,saturday ,2724589
+Cheryl Carson,saturday ,2187233
+Dean Straight,saturday ,9686459
+Dirk Stringer,saturday ,20266003
+Heather McBadden,saturday ,15417834
+Innes del Castillo,saturday ,6769275
+Johnson White,saturday ,3592914
+Livia Karsen,saturday ,12494594
+Marjorie Green,saturday ,2617092
+Meander Smith,saturday ,2296145
+Michael O'Leary,saturday ,5219467
+Michel DeFrance,saturday ,12495188
+Morningstar Greene,saturday ,4058385
+Reginald Blotchet-Halls,saturday ,2662810
+Sheryl Hunter,saturday ,4069693
+Stearns MacFeather,saturday ,1767379
+Sylvia Panteley,saturday ,5379643
+Abraham Bennet,sunday   ,8474325
+Albert Ringer,sunday   ,24112007
+Ann Dull,sunday   ,1152715
+Anne Ringer,sunday   ,1694447
+Burt Gringlesby,sunday   ,3532390
+Charlene Locksley,sunday   ,3178687
+Cheryl Carson,sunday   ,2551772
+Dean Straight,sunday   ,11300869
+Dirk Stringer,sunday   ,23643670
+Heather McBadden,sunday   ,17987473
+Innes del Castillo,sunday   ,7897488
+Johnson White,sunday   ,4191733
+Livia Karsen,sunday   ,14577027
+Marjorie Green,sunday   ,3053274
+Meander Smith,sunday   ,2678836
+Michael O'Leary,sunday   ,6089379
+Michel DeFrance,sunday   ,14577720
+Morningstar Greene,sunday   ,4734782
+Reginald Blotchet-Halls,sunday   ,3106611
+Sheryl Hunter,sunday   ,4747975
+Stearns MacFeather,sunday   ,2061943
+Sylvia Panteley,sunday   ,6276250
+Abraham Bennet,monday   ,9684937
+Albert Ringer,monday   ,27556579
+Ann Dull,monday   ,1317389
+Anne Ringer,monday   ,1936510
+Burt Gringlesby,monday   ,4037018
+Charlene Locksley,monday   ,3632785
+Cheryl Carson,monday   ,2916311
+Dean Straight,monday   ,12915279
+Dirk Stringer,monday   ,27021337
+Heather McBadden,monday   ,20557112
+Innes del Castillo,monday   ,9025701
+Johnson White,monday   ,4790552
+Livia Karsen,monday   ,16659459
+Marjorie Green,monday   ,3489456
+Meander Smith,monday   ,3061526
+Michael O'Leary,monday   ,6959290
+Michel DeFrance,monday   ,16660251
+Morningstar Greene,monday   ,5411179
+Reginald Blotchet-Halls,monday   ,3550413
+Sheryl Hunter,monday   ,5426258
+Stearns MacFeather,monday   ,2356506
+Sylvia Panteley,monday   ,7172857
+Abraham Bennet,tuesday  ,10895549
+Albert Ringer,tuesday  ,31001151
+Ann Dull,tuesday  ,1482062
+Anne Ringer,tuesday  ,2178574
+Burt Gringlesby,tuesday  ,4541645
+Charlene Locksley,tuesday  ,4086883
+Cheryl Carson,tuesday  ,3280850
+Dean Straight,tuesday  ,14529689
+Dirk Stringer,tuesday  ,30399004
+Heather McBadden,tuesday  ,23126751
+Innes del Castillo,tuesday  ,10153913
+Johnson White,tuesday  ,5389371
+Livia Karsen,tuesday  ,18741892
+Marjorie Green,tuesday  ,3925638
+Meander Smith,tuesday  ,3444217
+Michael O'Leary,tuesday  ,7829201
+Michel DeFrance,tuesday  ,18742783
+Morningstar Greene,tuesday  ,6087577
+Reginald Blotchet-Halls,tuesday  ,3994214
+Sheryl Hunter,tuesday  ,6104540
+Stearns MacFeather,tuesday  ,2651069
+Sylvia Panteley,tuesday  ,8069464
+Abraham Bennet,wednesday,12106161
+Albert Ringer,wednesday,34445724
+Ann Dull,wednesday,1646736
+Anne Ringer,wednesday,2420638
+Burt Gringlesby,wednesday,5046272
+Charlene Locksley,wednesday,4540981
+Cheryl Carson,wednesday,3645388
+Dean Straight,wednesday,16144099
+Dirk Stringer,wednesday,33776672
+Heather McBadden,wednesday,25696390
+Innes del Castillo,wednesday,11282126
+Johnson White,wednesday,5988191
+Livia Karsen,wednesday,20824324
+Marjorie Green,wednesday,4361820
+Meander Smith,wednesday,3826908
+Michael O'Leary,wednesday,8699112
+Michel DeFrance,wednesday,20825314
+Morningstar Greene,wednesday,6763974
+Reginald Blotchet-Halls,wednesday,4438016
+Sheryl Hunter,wednesday,6782822
+Stearns MacFeather,wednesday,2945632
+Sylvia Panteley,wednesday,8966071
+Abraham Bennet,thursday ,13316773
+Albert Ringer,thursday ,37890296
+Ann Dull,thursday ,1811410
+Anne Ringer,thursday ,2662702
+Burt Gringlesby,thursday ,5550899
+Charlene Locksley,thursday ,4995079
+Cheryl Carson,thursday ,4009927
+Dean Straight,thursday ,17758508
+Dirk Stringer,thursday ,37154339
+Heather McBadden,thursday ,28266029
+Innes del Castillo,thursday ,12410338
+Johnson White,thursday ,6587010
+Livia Karsen,thursday ,22906757
+Marjorie Green,thursday ,4798001
+Meander Smith,thursday ,4209599
+Michael O'Leary,thursday ,9569024
+Michel DeFrance,thursday ,22907845
+Morningstar Greene,thursday ,7440372
+Reginald Blotchet-Halls,thursday ,4881818
+Sheryl Hunter,thursday ,7461104
+Stearns MacFeather,thursday ,3240196
+Sylvia Panteley,thursday ,9862678
+Abraham Bennet,friday   ,14527385
+Albert Ringer,friday   ,41334868
+Ann Dull,friday   ,1976083
+Anne Ringer,friday   ,2904766
+Burt Gringlesby,friday   ,6055526
+Charlene Locksley,friday   ,5449177
+Cheryl Carson,friday   ,4374466
+Dean Straight,friday   ,19372918
+Dirk Stringer,friday   ,40532006
+Heather McBadden,friday   ,30835668
+Innes del Castillo,friday   ,13538551
+Johnson White,friday   ,7185829
+Livia Karsen,friday   ,24989189
+Marjorie Green,friday   ,5234183
+Meander Smith,friday   ,4592290
+Michael O'Leary,friday   ,10438935
+Michel DeFrance,friday   ,24990377
+Morningstar Greene,friday   ,8116769
+Reginald Blotchet-Halls,friday   ,5325619
+Sheryl Hunter,friday   ,8139386
+Stearns MacFeather,friday   ,3534759
+Sylvia Panteley,friday   ,10759285
+Abraham Bennet,saturday ,15737997
+Albert Ringer,saturday ,44779441
+Ann Dull,saturday ,2140757
+Anne Ringer,saturday ,3146829
+Burt Gringlesby,saturday ,6560154
+Charlene Locksley,saturday ,5903275
+Cheryl Carson,saturday ,4739005
+Dean Straight,saturday ,20987328
+Dirk Stringer,saturday ,43909673
+Heather McBadden,saturday ,33405307
+Innes del Castillo,saturday ,14666764
+Johnson White,saturday ,7784648
+Livia Karsen,saturday ,27071621
+Marjorie Green,saturday ,5670365
+Meander Smith,saturday ,4974980
+Michael O'Leary,saturday ,11308846
+Michel DeFrance,saturday ,27072908
+Morningstar Greene,saturday ,8793167
+Reginald Blotchet-Halls,saturday ,5769421
+Sheryl Hunter,saturday ,8817669
+Stearns MacFeather,saturday ,3829322
+Sylvia Panteley,saturday ,11655892
+Abraham Bennet,sunday   ,16948609
+Albert Ringer,sunday   ,48224013
+Ann Dull,sunday   ,2305431
+Anne Ringer,sunday   ,3388893
+Burt Gringlesby,sunday   ,7064781
+Charlene Locksley,sunday   ,6357373
+Cheryl Carson,sunday   ,5103544
+Dean Straight,sunday   ,22601738
+Dirk Stringer,sunday   ,47287340
+Heather McBadden,sunday   ,35974946
+Innes del Castillo,sunday   ,15794976
+Johnson White,sunday   ,8383467
+Livia Karsen,sunday   ,29348563
+Marjorie Green,sunday   ,6106547
+Meander Smith,sunday   ,5336777
+Michael O'Leary,sunday   ,12178757
+Michel DeFrance,sunday   ,29155440
+Morningstar Greene,sunday   ,9469564
+Reginald Blotchet-Halls,sunday   ,6213222
+Sheryl Hunter,sunday   ,9495951
+Stearns MacFeather,sunday   ,4123885
+Sylvia Panteley,sunday   ,12552499
+Abraham Bennet,monday   ,18159221
+Albert Ringer,monday   ,51668586
+Ann Dull,monday   ,2470104
+Anne Ringer,monday   ,3630957
+Burt Gringlesby,monday   ,7569408
+Charlene Locksley,monday   ,6811471
+Cheryl Carson,monday   ,5468083
+Dean Straight,monday   ,24216148
+Dirk Stringer,monday   ,50665007
+Heather McBadden,monday   ,38544585
+Innes del Castillo,monday   ,16923189
+Johnson White,monday   ,8982286
+Livia Karsen,monday   ,31430996
+Marjorie Green,monday   ,6542729
+Meander Smith,monday   ,5719468
+Michael O'Leary,monday   ,13048668
+Michel DeFrance,monday   ,31237971
+Morningstar Greene,monday   ,10145961
+Reginald Blotchet-Halls,monday   ,6657024
+Sheryl Hunter,monday   ,10174233
+Stearns MacFeather,monday   ,4418448
+Sylvia Panteley,monday   ,13449107
+Abraham Bennet,tuesday  ,19369832
+Albert Ringer,tuesday  ,55113158
+Ann Dull,tuesday  ,2634778
+Anne Ringer,tuesday  ,3873021
+Burt Gringlesby,tuesday  ,8074035
+Charlene Locksley,tuesday  ,7265569
+Cheryl Carson,tuesday  ,5832621
+Dean Straight,tuesday  ,25830558
+Dirk Stringer,tuesday  ,54042674
+Heather McBadden,tuesday  ,40845849
+Innes del Castillo,tuesday  ,18051401
+Johnson White,tuesday  ,9581105
+Livia Karsen,tuesday  ,33513428
+Marjorie Green,tuesday  ,6978911
+Meander Smith,tuesday  ,6102159
+Michael O'Leary,tuesday  ,13918580
+Michel DeFrance,tuesday  ,33320502
+Morningstar Greene,tuesday  ,10822359
+Reginald Blotchet-Halls,tuesday  ,7100826
+Sheryl Hunter,tuesday  ,10852515
+Stearns MacFeather,tuesday  ,4713012
+Sylvia Panteley,tuesday  ,14345714
+Abraham Bennet,wednesday,20580444
+Albert Ringer,wednesday,58557730
+Ann Dull,wednesday,2799451
+Anne Ringer,wednesday,4115085
+Burt Gringlesby,wednesday,8578662
+Charlene Locksley,wednesday,7719668
+Cheryl Carson,wednesday,6197160
+Dean Straight,wednesday,27444968
+Dirk Stringer,wednesday,57420342
+Heather McBadden,wednesday,43415488
+Innes del Castillo,wednesday,19179614
+Johnson White,wednesday,10179924
+Livia Karsen,wednesday,35595860
+Marjorie Green,wednesday,7415093
+Meander Smith,wednesday,6484849
+Michael O'Leary,wednesday,14788491
+Michel DeFrance,wednesday,35403034
+Morningstar Greene,wednesday,11498756
+Reginald Blotchet-Halls,wednesday,7544627
+Sheryl Hunter,wednesday,11530797
+Stearns MacFeather,wednesday,5007575
+Sylvia Panteley,wednesday,15242321
+Abraham Bennet,thursday ,21791056
+Albert Ringer,thursday ,62002303
+Ann Dull,thursday ,2964125
+Anne Ringer,thursday ,4357148
+Burt Gringlesby,thursday ,9083290
+Charlene Locksley,thursday ,8173766
+Cheryl Carson,thursday ,6561699
+Dean Straight,thursday ,29056247
+Dirk Stringer,thursday ,60798009
+Heather McBadden,thursday ,45985128
+Innes del Castillo,thursday ,20307826
+Johnson White,thursday ,10778743
+Livia Karsen,thursday ,37426389
+Marjorie Green,thursday ,7851275
+Meander Smith,thursday ,6867540
+Michael O'Leary,thursday ,15658402
+Michel DeFrance,thursday ,37485565
+Morningstar Greene,thursday ,12175154
+Reginald Blotchet-Halls,thursday ,7988429
+Sheryl Hunter,thursday ,12209080
+Stearns MacFeather,thursday ,5302138
+Sylvia Panteley,thursday ,16138928
+Abraham Bennet,friday   ,23001668
+Albert Ringer,friday   ,65446875
+Ann Dull,friday   ,3128799
+Anne Ringer,friday   ,4599212
+Burt Gringlesby,friday   ,9587917
+Charlene Locksley,friday   ,8627864
+Cheryl Carson,friday   ,6926238
+Dean Straight,friday   ,30670657
+Dirk Stringer,friday   ,64175676
+Heather McBadden,friday   ,48554767
+Innes del Castillo,friday   ,21436039
+Johnson White,friday   ,11377562
+Livia Karsen,friday   ,39508822
+Marjorie Green,friday   ,8287457
+Meander Smith,friday   ,7250231
+Michael O'Leary,friday   ,16528313
+Michel DeFrance,friday   ,39568097
+Morningstar Greene,friday   ,12851551
+Reginald Blotchet-Halls,friday   ,8432230
+Sheryl Hunter,friday   ,12887362
+Stearns MacFeather,friday   ,5596701
+Sylvia Panteley,friday   ,17035535
+Abraham Bennet,saturday ,24212280
+Albert Ringer,saturday ,68891447
+Ann Dull,saturday ,3293472
+Anne Ringer,saturday ,4841276
+Burt Gringlesby,saturday ,10092544
+Charlene Locksley,saturday ,9081962
+Cheryl Carson,saturday ,7290777
+Dean Straight,saturday ,32285067
+Dirk Stringer,saturday ,67553343
+Heather McBadden,saturday ,49933853
+Innes del Castillo,saturday ,22564252
+Johnson White,saturday ,11976381
+Livia Karsen,saturday ,41591254
+Marjorie Green,saturday ,8723639
+Meander Smith,saturday ,7632922
+Michael O'Leary,saturday ,17398225
+Michel DeFrance,saturday ,41650628
+Morningstar Greene,saturday ,13527949
+Reginald Blotchet-Halls,saturday ,8876032
+Sheryl Hunter,saturday ,13565644
+Stearns MacFeather,saturday ,5891265
+Sylvia Panteley,saturday ,17932142
+Abraham Bennet,sunday   ,25422892
+Albert Ringer,sunday   ,72336020
+Ann Dull,sunday   ,3458146
+Anne Ringer,sunday   ,5083340
+Burt Gringlesby,sunday   ,10597171
+Charlene Locksley,sunday   ,9536060
+Cheryl Carson,sunday   ,7655316
+Dean Straight,sunday   ,33899477
+Dirk Stringer,sunday   ,70931010
+Heather McBadden,sunday   ,52503492
+Innes del Castillo,sunday   ,23692464
+Johnson White,sunday   ,12575200
+Livia Karsen,sunday   ,43673687
+Marjorie Green,sunday   ,9159821
+Meander Smith,sunday   ,8015613
+Michael O'Leary,sunday   ,18268136
+Michel DeFrance,sunday   ,43733159
+Morningstar Greene,sunday   ,14204346
+Reginald Blotchet-Halls,sunday   ,9319834
+Sheryl Hunter,sunday   ,14243926
+Stearns MacFeather,sunday   ,6185828
+Sylvia Panteley,sunday   ,18828749
+Abraham Bennet,monday   ,26633504
+Albert Ringer,monday   ,75780592
+Ann Dull,monday   ,3622819
+Anne Ringer,monday   ,5325404
+Burt Gringlesby,monday   ,11101798
+Charlene Locksley,monday   ,9990158
+Cheryl Carson,monday   ,8019854
+Dean Straight,monday   ,35513887
+Dirk Stringer,monday   ,74308677
+Heather McBadden,monday   ,55073131
+Innes del Castillo,monday   ,24820677
+Johnson White,monday   ,13174019
+Livia Karsen,monday   ,45756119
+Marjorie Green,monday   ,9596003
+Meander Smith,monday   ,8398303
+Michael O'Leary,monday   ,19138047
+Michel DeFrance,monday   ,45815691
+Morningstar Greene,monday   ,14880743
+Reginald Blotchet-Halls,monday   ,9763635
+Sheryl Hunter,monday   ,14922208
+Stearns MacFeather,monday   ,6480391
+Sylvia Panteley,monday   ,19725356
+Abraham Bennet,tuesday  ,27844116
+Albert Ringer,tuesday  ,79225165
+Ann Dull,tuesday  ,3787493
+Anne Ringer,tuesday  ,5567467
+Burt Gringlesby,tuesday  ,11606426
+Charlene Locksley,tuesday  ,10444256
+Cheryl Carson,tuesday  ,8384393
+Dean Straight,tuesday  ,37128296
+Dirk Stringer,tuesday  ,77686344
+Heather McBadden,tuesday  ,57642770
+Innes del Castillo,tuesday  ,25948889
+Johnson White,tuesday  ,13772838
+Livia Karsen,tuesday  ,47838552
+Marjorie Green,tuesday  ,10032185
+Meander Smith,tuesday  ,8780994
+Michael O'Leary,tuesday  ,20007958
+Michel DeFrance,tuesday  ,47898222
+Morningstar Greene,tuesday  ,15557141
+Reginald Blotchet-Halls,tuesday  ,10207437
+Sheryl Hunter,tuesday  ,15600491
+Stearns MacFeather,tuesday  ,6774954
+Sylvia Panteley,tuesday  ,20621963
+Abraham Bennet,wednesday,29054728
+Albert Ringer,wednesday,82669737
+Ann Dull,wednesday,3952167
+Anne Ringer,wednesday,5809531
+Burt Gringlesby,wednesday,12111053
+Charlene Locksley,wednesday,10898354
+Cheryl Carson,wednesday,8748932
+Dean Straight,wednesday,38742706
+Dirk Stringer,wednesday,81064012
+Heather McBadden,wednesday,60212409
+Innes del Castillo,wednesday,27077102
+Johnson White,wednesday,14371657
+Livia Karsen,wednesday,49920984
+Marjorie Green,wednesday,10468367
+Meander Smith,wednesday,9163685
+Michael O'Leary,wednesday,20877870
+Michel DeFrance,wednesday,49980754
+Morningstar Greene,wednesday,16233538
+Reginald Blotchet-Halls,wednesday,10651238
+Sheryl Hunter,wednesday,16278773
+Stearns MacFeather,wednesday,7069518
+Sylvia Panteley,wednesday,21518570
+Abraham Bennet,thursday ,30265340
+Albert Ringer,thursday ,86114309
+Ann Dull,thursday ,4116840
+Anne Ringer,thursday ,6051595
+Burt Gringlesby,thursday ,12615680
+Charlene Locksley,thursday ,11352452
+Cheryl Carson,thursday ,9113471
+Dean Straight,thursday ,40357116
+Dirk Stringer,thursday ,84441679
+Heather McBadden,thursday ,62782048
+Innes del Castillo,thursday ,28205315
+Johnson White,thursday ,14970476
+Livia Karsen,thursday ,52003416
+Marjorie Green,thursday ,10904549
+Meander Smith,thursday ,9546376
+Michael O'Leary,thursday ,21747781
+Michel DeFrance,thursday ,52063285
+Morningstar Greene,thursday ,16909936
+Reginald Blotchet-Halls,thursday ,11095040
+Sheryl Hunter,thursday ,16957055
+Stearns MacFeather,thursday ,7364081
+Sylvia Panteley,thursday ,22415178
+Abraham Bennet,friday   ,31475952
+Albert Ringer,friday   ,89558882
+Ann Dull,friday   ,4281514
+Anne Ringer,friday   ,6293659
+Burt Gringlesby,friday   ,13120307
+Charlene Locksley,friday   ,11806550
+Cheryl Carson,friday   ,9478010
+Dean Straight,friday   ,41971526
+Dirk Stringer,friday   ,87819346
+Heather McBadden,friday   ,65351687
+Innes del Castillo,friday   ,29333527
+Johnson White,friday   ,15569295
+Livia Karsen,friday   ,54085849
+Marjorie Green,friday   ,11340731
+Meander Smith,friday   ,9929067
+Michael O'Leary,friday   ,22617692
+Michel DeFrance,friday   ,54145816
+Morningstar Greene,friday   ,17586333
+Reginald Blotchet-Halls,friday   ,11538842
+Sheryl Hunter,friday   ,17635337
+Stearns MacFeather,friday   ,7658644
+Sylvia Panteley,friday   ,23311785
+Abraham Bennet,saturday ,32686564
+Albert Ringer,saturday ,93003454
+Ann Dull,saturday ,4446187
+Anne Ringer,saturday ,6535723
+Burt Gringlesby,saturday ,13624934
+Charlene Locksley,saturday ,12260648
+Cheryl Carson,saturday ,9842549
+Dean Straight,saturday ,43585936
+Dirk Stringer,saturday ,91197013
+Heather McBadden,saturday ,67921326
+Innes del Castillo,saturday ,30461740
+Johnson White,saturday ,16168114
+Livia Karsen,saturday ,54348354
+Marjorie Green,saturday ,11776913
+Meander Smith,saturday ,10311757
+Michael O'Leary,saturday ,23487603
+Michel DeFrance,saturday ,56228348
+Morningstar Greene,saturday ,18262731
+Reginald Blotchet-Halls,saturday ,11982643
+Sheryl Hunter,saturday ,18313619
+Stearns MacFeather,saturday ,7953207
+Sylvia Panteley,saturday ,24208392
+Abraham Bennet,sunday   ,33897176
+Albert Ringer,sunday   ,96448026
+Ann Dull,sunday   ,4610861
+Anne Ringer,sunday   ,6777786
+Burt Gringlesby,sunday   ,14129562
+Charlene Locksley,sunday   ,12714747
+Cheryl Carson,sunday   ,10207088
+Dean Straight,sunday   ,45200346
+Dirk Stringer,sunday   ,94574680
+Heather McBadden,sunday   ,70490965
+Innes del Castillo,sunday   ,31589952
+Johnson White,sunday   ,16766934
+Livia Karsen,sunday   ,56430786
+Marjorie Green,sunday   ,12213095
+Meander Smith,sunday   ,10694448
+Michael O'Leary,sunday   ,24357514
+Michel DeFrance,sunday   ,58310879
+Morningstar Greene,sunday   ,18939128
+Reginald Blotchet-Halls,sunday   ,12426445
+Sheryl Hunter,sunday   ,18991902
+Stearns MacFeather,sunday   ,8247770
+Sylvia Panteley,sunday   ,25104999
+Abraham Bennet,monday   ,35107788
+Albert Ringer,monday   ,99892599
+Ann Dull,monday   ,4775535
+Anne Ringer,monday   ,7019850
+Burt Gringlesby,monday   ,14634189
+Charlene Locksley,monday   ,13168845
+Cheryl Carson,monday   ,10571626
+Dean Straight,monday   ,46814756
+Dirk Stringer,monday   ,97952347
+Heather McBadden,monday   ,73060604
+Innes del Castillo,monday   ,32718165
+Johnson White,monday   ,17365753
+Livia Karsen,monday   ,58513219
+Marjorie Green,monday   ,12649277
+Meander Smith,monday   ,11077139
+Michael O'Leary,monday   ,25227426
+Michel DeFrance,monday   ,60393411
+Morningstar Greene,monday   ,19615525
+Reginald Blotchet-Halls,monday   ,12870246
+Sheryl Hunter,monday   ,19670184
+Stearns MacFeather,monday   ,8542334
+Sylvia Panteley,monday   ,26001606
+Abraham Bennet,tuesday  ,36318400
+Albert Ringer,tuesday  ,103337171
+Ann Dull,tuesday  ,4940208
+Anne Ringer,tuesday  ,7261914
+Burt Gringlesby,tuesday  ,15138816
+Charlene Locksley,tuesday  ,13622943
+Cheryl Carson,tuesday  ,10936165
+Dean Straight,tuesday  ,48429165
+Dirk Stringer,tuesday  ,101330015
+Heather McBadden,tuesday  ,75630243
+Innes del Castillo,tuesday  ,33846377
+Johnson White,tuesday  ,17908574
+Livia Karsen,tuesday  ,60595651
+Marjorie Green,tuesday  ,13085459
+Meander Smith,tuesday  ,11459830
+Michael O'Leary,tuesday  ,26097337
+Michel DeFrance,tuesday  ,62475942
+Morningstar Greene,tuesday  ,20291923
+Reginald Blotchet-Halls,tuesday  ,13314048
+Sheryl Hunter,tuesday  ,20348466
+Stearns MacFeather,tuesday  ,8836897
+Sylvia Panteley,tuesday  ,26898213
+Abraham Bennet,wednesday,37529011
+Albert Ringer,wednesday,106781743
+Ann Dull,wednesday,5104882
+Anne Ringer,wednesday,7503978
+Burt Gringlesby,wednesday,15643443
+Charlene Locksley,wednesday,14077041
+Cheryl Carson,wednesday,11300704
+Dean Straight,wednesday,50043575
+Dirk Stringer,wednesday,104707682
+Heather McBadden,wednesday,78199882
+Innes del Castillo,wednesday,34974590
+Johnson White,wednesday,18507393
+Livia Karsen,wednesday,62678084
+Marjorie Green,wednesday,13521640
+Meander Smith,wednesday,11842521
+Michael O'Leary,wednesday,26967248
+Michel DeFrance,wednesday,64558473
+Morningstar Greene,wednesday,20968320
+Reginald Blotchet-Halls,wednesday,13757850
+Sheryl Hunter,wednesday,21026748
+Stearns MacFeather,wednesday,9131460
+Sylvia Panteley,wednesday,27794820
+Abraham Bennet,thursday ,38739623
+Albert Ringer,thursday ,110226316
+Ann Dull,thursday ,5269556
+Anne Ringer,thursday ,7746042
+Burt Gringlesby,thursday ,16148070
+Charlene Locksley,thursday ,14531139
+Cheryl Carson,thursday ,11665243
+Dean Straight,thursday ,51657985
+Dirk Stringer,thursday ,108085349
+Heather McBadden,thursday ,80769521
+Innes del Castillo,thursday ,36102803
+Johnson White,thursday ,19106212
+Livia Karsen,thursday ,64760516
+Marjorie Green,thursday ,13957822
+Meander Smith,thursday ,12225211
+Michael O'Leary,thursday ,27837159
+Michel DeFrance,thursday ,66641005
+Morningstar Greene,thursday ,21644718
+Reginald Blotchet-Halls,thursday ,14201651
+Sheryl Hunter,thursday ,21705030
+Stearns MacFeather,thursday ,9426023
+Sylvia Panteley,thursday ,28691427
+Abraham Bennet,friday   ,39950235
+Albert Ringer,friday   ,113670888
+Ann Dull,friday   ,5434229
+Anne Ringer,friday   ,7988105
+Burt Gringlesby,friday   ,16652698
+Charlene Locksley,friday   ,14985237
+Cheryl Carson,friday   ,12029782
+Dean Straight,friday   ,53272395
+Dirk Stringer,friday   ,111463016
+Heather McBadden,friday   ,83339160
+Innes del Castillo,friday   ,37231015
+Johnson White,friday   ,19705031
+Livia Karsen,friday   ,66842949
+Marjorie Green,friday   ,14394004
+Meander Smith,friday   ,12607902
+Michael O'Leary,friday   ,28707071
+Michel DeFrance,friday   ,68723536
+Morningstar Greene,friday   ,22321115
+Reginald Blotchet-Halls,friday   ,14645453
+Sheryl Hunter,friday   ,22383313
+Stearns MacFeather,friday   ,9720587
+Sylvia Panteley,friday   ,29588034
+Abraham Bennet,saturday ,41160847
+Albert Ringer,saturday ,117115461
+Ann Dull,saturday ,5598903
+Anne Ringer,saturday ,8230169
+Burt Gringlesby,saturday ,17157325
+Charlene Locksley,saturday ,15439335
+Cheryl Carson,saturday ,12394321
+Dean Straight,saturday ,54886805
+Dirk Stringer,saturday ,114840683
+Heather McBadden,saturday ,85908799
+Innes del Castillo,saturday ,38359228
+Johnson White,saturday ,20303850
+Livia Karsen,saturday ,68925381
+Marjorie Green,saturday ,14830186
+Meander Smith,saturday ,12990593
+Michael O'Leary,saturday ,29576982
+Michel DeFrance,saturday ,70806068
+Morningstar Greene,saturday ,22997513
+Reginald Blotchet-Halls,saturday ,15089254
+Sheryl Hunter,saturday ,23061595
+Stearns MacFeather,saturday ,10015150
+Sylvia Panteley,saturday ,30484641
+Abraham Bennet,sunday   ,42371459
+Albert Ringer,sunday   ,120560033
+Ann Dull,sunday   ,5763576
+Anne Ringer,sunday   ,8472233
+Burt Gringlesby,sunday   ,17661952
+Charlene Locksley,sunday   ,15893433
+Cheryl Carson,sunday   ,12758859
+Dean Straight,sunday   ,56501215
+Dirk Stringer,sunday   ,118218350
+Heather McBadden,sunday   ,88478438
+Innes del Castillo,sunday   ,39487440
+Johnson White,sunday   ,20902669
+Livia Karsen,sunday   ,71007813
+Marjorie Green,sunday   ,15266368
+Meander Smith,sunday   ,13373284
+Michael O'Leary,sunday   ,30446893
+Michel DeFrance,sunday   ,72888599
+Morningstar Greene,sunday   ,23673910
+Reginald Blotchet-Halls,sunday   ,15533056
+Sheryl Hunter,sunday   ,23739877
+Stearns MacFeather,sunday   ,10309713
+Sylvia Panteley,sunday   ,31381249
+Abraham Bennet,monday   ,43582071
+Albert Ringer,monday   ,124004605
+Ann Dull,monday   ,5928250
+Anne Ringer,monday   ,8714297
+Burt Gringlesby,monday   ,18166579
+Charlene Locksley,monday   ,16347531
+Cheryl Carson,monday   ,13123398
+Dean Straight,monday   ,58115625
+Dirk Stringer,monday   ,121596017
+Heather McBadden,monday   ,91048077
+Innes del Castillo,monday   ,40615653
+Johnson White,monday   ,21501488
+Livia Karsen,monday   ,73090246
+Marjorie Green,monday   ,15702550
+Meander Smith,monday   ,13755975
+Michael O'Leary,monday   ,31316804
+Michel DeFrance,monday   ,74971130
+Morningstar Greene,monday   ,24350307
+Reginald Blotchet-Halls,monday   ,15976858
+Sheryl Hunter,monday   ,24418159
+Stearns MacFeather,monday   ,10604276
+Sylvia Panteley,monday   ,32277856
+Abraham Bennet,tuesday  ,44792995
+Albert Ringer,tuesday  ,127449178
+Ann Dull,tuesday  ,6092924
+Anne Ringer,tuesday  ,8956361
+Burt Gringlesby,tuesday  ,18671206
+Charlene Locksley,tuesday  ,16801629
+Cheryl Carson,tuesday  ,13487937
+Dean Straight,tuesday  ,59730034
+Dirk Stringer,tuesday  ,124973685
+Heather McBadden,tuesday  ,93617716
+Innes del Castillo,tuesday  ,41743865
+Johnson White,tuesday  ,22100307
+Livia Karsen,tuesday  ,75172678
+Marjorie Green,tuesday  ,16138732
+Meander Smith,tuesday  ,14138665
+Michael O'Leary,tuesday  ,32186716
+Michel DeFrance,tuesday  ,77053662
+Morningstar Greene,tuesday  ,25026705
+Reginald Blotchet-Halls,tuesday  ,16420659
+Sheryl Hunter,tuesday  ,25096441
+Stearns MacFeather,tuesday  ,10898840
+Sylvia Panteley,tuesday  ,33174463
+Abraham Bennet,wednesday,46003607
+Albert Ringer,wednesday,130893750
+Ann Dull,wednesday,6257597
+Anne Ringer,wednesday,9198424
+Burt Gringlesby,wednesday,19175834
+Charlene Locksley,wednesday,17255727
+Cheryl Carson,wednesday,13852476
+Dean Straight,wednesday,61344444
+Dirk Stringer,wednesday,128351352
+Heather McBadden,wednesday,96187355
+Innes del Castillo,wednesday,42872078
+Johnson White,wednesday,22699126
+Livia Karsen,wednesday,77255111
+Marjorie Green,wednesday,16574914
+Meander Smith,wednesday,14521356
+Michael O'Leary,wednesday,33056627
+Michel DeFrance,wednesday,79136193
+Morningstar Greene,wednesday,25703102
+Reginald Blotchet-Halls,wednesday,16864461
+Sheryl Hunter,wednesday,25774724
+Stearns MacFeather,wednesday,11193403
+Sylvia Panteley,wednesday,34071070
+Abraham Bennet,thursday ,47214219
+Albert Ringer,thursday ,134338322
+Ann Dull,thursday ,6422271
+Anne Ringer,thursday ,9440488
+Burt Gringlesby,thursday ,19680461
+Charlene Locksley,thursday ,17709826
+Cheryl Carson,thursday ,14217015
+Dean Straight,thursday ,62958854
+Dirk Stringer,thursday ,131729019
+Heather McBadden,thursday ,98756994
+Innes del Castillo,thursday ,44000291
+Johnson White,thursday ,23297945
+Livia Karsen,thursday ,79337543
+Marjorie Green,thursday ,17011096
+Meander Smith,thursday ,14904047
+Michael O'Leary,thursday ,33926538
+Michel DeFrance,thursday ,81218725
+Morningstar Greene,thursday ,26379500
+Reginald Blotchet-Halls,thursday ,17308262
+Sheryl Hunter,thursday ,26453006
+Stearns MacFeather,thursday ,11487966
+Sylvia Panteley,thursday ,34967677
+Abraham Bennet,friday   ,48424831
+Albert Ringer,friday   ,137782895
+Ann Dull,friday   ,6586944
+Anne Ringer,friday   ,9682552
+Burt Gringlesby,friday   ,20185088
+Charlene Locksley,friday   ,18163924
+Cheryl Carson,friday   ,14581554
+Dean Straight,friday   ,64573264
+Dirk Stringer,friday   ,135106686
+Heather McBadden,friday   ,101326633
+Innes del Castillo,friday   ,45128503
+Johnson White,friday   ,23896764
+Livia Karsen,friday   ,81419975
+Marjorie Green,friday   ,17447278
+Meander Smith,friday   ,15286738
+Michael O'Leary,friday   ,34796449
+Michel DeFrance,friday   ,83301256
+Morningstar Greene,friday   ,27055897
+Reginald Blotchet-Halls,friday   ,17752064
+Sheryl Hunter,friday   ,27131288
+Stearns MacFeather,friday   ,11782529
+Sylvia Panteley,friday   ,35864284
+Abraham Bennet,saturday ,49635443
+Albert Ringer,saturday ,141227467
+Ann Dull,saturday ,6751618
+Anne Ringer,saturday ,9924616
+Burt Gringlesby,saturday ,20689715
+Charlene Locksley,saturday ,18618022
+Cheryl Carson,saturday ,14946092
+Dean Straight,saturday ,66187674
+Dirk Stringer,saturday ,138484353
+Heather McBadden,saturday ,103896272
+Innes del Castillo,saturday ,46256716
+Johnson White,saturday ,24495583
+Livia Karsen,saturday ,83502408
+Marjorie Green,saturday ,17883460
+Meander Smith,saturday ,15669429
+Michael O'Leary,saturday ,35666360
+Michel DeFrance,saturday ,85383787
+Morningstar Greene,saturday ,27732295
+Reginald Blotchet-Halls,saturday ,18195866
+Sheryl Hunter,saturday ,27809570
+Stearns MacFeather,saturday ,12077092
+Sylvia Panteley,saturday ,36760891
+Abraham Bennet,sunday   ,50846055
+Albert Ringer,sunday   ,144672040
+Ann Dull,sunday   ,6916292
+Anne Ringer,sunday   ,10166680
+Burt Gringlesby,sunday   ,21194342
+Charlene Locksley,sunday   ,19072120
+Cheryl Carson,sunday   ,15310631
+Dean Straight,sunday   ,67802084
+Dirk Stringer,sunday   ,141862020
+Heather McBadden,sunday   ,106465911
+Innes del Castillo,sunday   ,47384928
+Johnson White,sunday   ,25094402
+Livia Karsen,sunday   ,85584840
+Marjorie Green,sunday   ,18319642
+Meander Smith,sunday   ,16052119
+Michael O'Leary,sunday   ,36536272
+Michel DeFrance,sunday   ,87466319
+Morningstar Greene,sunday   ,28408692
+Reginald Blotchet-Halls,sunday   ,18639667
+Sheryl Hunter,sunday   ,28487852
+Stearns MacFeather,sunday   ,12371656
+Sylvia Panteley,sunday   ,37657498
+Abraham Bennet,monday   ,52056667
+Albert Ringer,monday   ,148116612
+Ann Dull,monday   ,7080965
+Anne Ringer,monday   ,10408743
+Burt Gringlesby,monday   ,21698970
+Charlene Locksley,monday   ,19526218
+Cheryl Carson,monday   ,15675170
+Dean Straight,monday   ,69416494
+Dirk Stringer,monday   ,145239687
+Heather McBadden,monday   ,109035550
+Innes del Castillo,monday   ,48513141
+Johnson White,monday   ,25693221
+Livia Karsen,monday   ,87667273
+Marjorie Green,monday   ,18755824
+Meander Smith,monday   ,16434810
+Michael O'Leary,monday   ,37406183
+Michel DeFrance,monday   ,89548850
+Morningstar Greene,monday   ,29085089
+Reginald Blotchet-Halls,monday   ,19083469
+Sheryl Hunter,monday   ,29166135
+Stearns MacFeather,monday   ,12666219
+Sylvia Panteley,monday   ,38554105
+Abraham Bennet,tuesday  ,53267279
+Albert Ringer,tuesday  ,151561184
+Ann Dull,tuesday  ,7245639
+Anne Ringer,tuesday  ,10650807
+Burt Gringlesby,tuesday  ,22203597
+Charlene Locksley,tuesday  ,19980316
+Cheryl Carson,tuesday  ,16039709
+Dean Straight,tuesday  ,71030903
+Dirk Stringer,tuesday  ,148617355
+Heather McBadden,tuesday  ,111605189
+Innes del Castillo,tuesday  ,49641354
+Johnson White,tuesday  ,26292040
+Livia Karsen,tuesday  ,89749705
+Marjorie Green,tuesday  ,19192006
+Meander Smith,tuesday  ,16817501
+Michael O'Leary,tuesday  ,38276094
+Michel DeFrance,tuesday  ,91631382
+Morningstar Greene,tuesday  ,29761487
+Reginald Blotchet-Halls,tuesday  ,19527270
+Sheryl Hunter,tuesday  ,29844417
+Stearns MacFeather,tuesday  ,12960782
+Sylvia Panteley,tuesday  ,39450712
+Abraham Bennet,wednesday,54477890
+Albert Ringer,wednesday,155005757
+Ann Dull,wednesday,7410312
+Anne Ringer,wednesday,10892871
+Burt Gringlesby,wednesday,22708224
+Charlene Locksley,wednesday,20434414
+Cheryl Carson,wednesday,16404248
+Dean Straight,wednesday,72645313
+Dirk Stringer,wednesday,151995022
+Heather McBadden,wednesday,114174828
+Innes del Castillo,wednesday,50769566
+Johnson White,wednesday,26890859
+Livia Karsen,wednesday,91832137
+Marjorie Green,wednesday,19628188
+Meander Smith,wednesday,17200192
+Michael O'Leary,wednesday,39146005
+Michel DeFrance,wednesday,93713913
+Morningstar Greene,wednesday,30437884
+Reginald Blotchet-Halls,wednesday,19971072
+Sheryl Hunter,wednesday,30522699
+Stearns MacFeather,wednesday,13255345
+Sylvia Panteley,wednesday,40347320
+Abraham Bennet,thursday ,55688502
+Albert Ringer,thursday ,158450329
+Ann Dull,thursday ,7574986
+Anne Ringer,thursday ,11134935
+Burt Gringlesby,thursday ,23212851
+Charlene Locksley,thursday ,20888512
+Cheryl Carson,thursday ,16768787
+Dean Straight,thursday ,74259723
+Dirk Stringer,thursday ,155372689
+Heather McBadden,thursday ,116744467
+Innes del Castillo,thursday ,51897779
+Johnson White,thursday ,27489679
+Livia Karsen,thursday ,93914570
+Marjorie Green,thursday ,20064370
+Meander Smith,thursday ,17582883
+Michael O'Leary,thursday ,40015917
+Michel DeFrance,thursday ,95796444
+Morningstar Greene,thursday ,31114282
+Reginald Blotchet-Halls,thursday ,20414874
+Sheryl Hunter,thursday ,31200981
+Stearns MacFeather,thursday ,13549909
+Sylvia Panteley,thursday ,41243927
+Abraham Bennet,friday   ,56899114
+Albert Ringer,friday   ,161894901
+Ann Dull,friday   ,7739660
+Anne Ringer,friday   ,11376999
+Burt Gringlesby,friday   ,23717478
+Charlene Locksley,friday   ,21342610
+Cheryl Carson,friday   ,17133325
+Dean Straight,friday   ,75874133
+Dirk Stringer,friday   ,158750356
+Heather McBadden,friday   ,119314106
+Innes del Castillo,friday   ,53025991
+Johnson White,friday   ,28088498
+Livia Karsen,friday   ,95997002
+Marjorie Green,friday   ,20500552
+Meander Smith,friday   ,17965573
+Michael O'Leary,friday   ,40885828
+Michel DeFrance,friday   ,97878976
+Morningstar Greene,friday   ,31790679
+Reginald Blotchet-Halls,friday   ,20858675
+Sheryl Hunter,friday   ,31879263
+Stearns MacFeather,friday   ,13844472
+Sylvia Panteley,friday   ,42140534
+Abraham Bennet,saturday ,58109726
+Albert Ringer,saturday ,165339474
+Ann Dull,saturday ,7904333
+Anne Ringer,saturday ,11619062
+Burt Gringlesby,saturday ,24222106
+Charlene Locksley,saturday ,21796708
+Cheryl Carson,saturday ,17497864
+Dean Straight,saturday ,77488543
+Dirk Stringer,saturday ,162128023
+Heather McBadden,saturday ,121883745
+Innes del Castillo,saturday ,54154204
+Johnson White,saturday ,28687317
+Livia Karsen,saturday ,98079435
+Marjorie Green,saturday ,20936734
+Meander Smith,saturday ,18348264
+Michael O'Leary,saturday ,41755739
+Michel DeFrance,saturday ,99961507
+Morningstar Greene,saturday ,32467077
+Reginald Blotchet-Halls,saturday ,21302477
+Sheryl Hunter,saturday ,32557546
+Stearns MacFeather,saturday ,14139035
+Sylvia Panteley,saturday ,43037141
+Abraham Bennet,sunday   ,59320338
+Albert Ringer,sunday   ,168784046
+Ann Dull,sunday   ,8069007
+Anne Ringer,sunday   ,11861126
+Burt Gringlesby,sunday   ,24726733
+Charlene Locksley,sunday   ,22250806
+Cheryl Carson,sunday   ,17862403
+Dean Straight,sunday   ,79102953
+Dirk Stringer,sunday   ,165505690
+Heather McBadden,sunday   ,124453384
+Innes del Castillo,sunday   ,55282416
+Johnson White,sunday   ,29286136
+Livia Karsen,sunday   ,100161867
+Marjorie Green,sunday   ,21372916
+Meander Smith,sunday   ,18730955
+Michael O'Leary,sunday   ,42625650
+Michel DeFrance,sunday   ,102044039
+Morningstar Greene,sunday   ,33143474
+Reginald Blotchet-Halls,sunday   ,21746278
+Sheryl Hunter,sunday   ,33235828
+Stearns MacFeather,sunday   ,14433598
+Sylvia Panteley,sunday   ,43933748
+Abraham Bennet,monday   ,60530950
+Albert Ringer,monday   ,172228619
+Ann Dull,monday   ,8233681
+Anne Ringer,monday   ,12103190
+Burt Gringlesby,monday   ,25231360
+Charlene Locksley,monday   ,22704905
+Cheryl Carson,monday   ,18226942
+Dean Straight,monday   ,80717363
+Dirk Stringer,monday   ,168883358
+Heather McBadden,monday   ,127023023
+Innes del Castillo,monday   ,56410629
+Johnson White,monday   ,29884955
+Livia Karsen,monday   ,102244300
+Marjorie Green,monday   ,21809098
+Meander Smith,monday   ,19113646
+Michael O'Leary,monday   ,43495562
+Michel DeFrance,monday   ,104126570
+Morningstar Greene,monday   ,33819872
+Reginald Blotchet-Halls,monday   ,22190080
+Sheryl Hunter,monday   ,33914110
+Stearns MacFeather,monday   ,14728162
+Sylvia Panteley,monday   ,44830355
+Abraham Bennet,tuesday  ,61741562
+Albert Ringer,tuesday  ,175673191
+Ann Dull,tuesday  ,8398354
+Anne Ringer,tuesday  ,12345254
+Burt Gringlesby,tuesday  ,25735987
+Charlene Locksley,tuesday  ,23159003
+Cheryl Carson,tuesday  ,18591481
+Dean Straight,tuesday  ,82331772
+Dirk Stringer,tuesday  ,172261025
+Heather McBadden,tuesday  ,129592663
+Innes del Castillo,tuesday  ,57538842
+Johnson White,tuesday  ,30483774
+Livia Karsen,tuesday  ,102506805
+Marjorie Green,tuesday  ,22245279
+Meander Smith,tuesday  ,19496337
+Michael O'Leary,tuesday  ,44365473
+Michel DeFrance,tuesday  ,106209101
+Morningstar Greene,tuesday  ,34496269
+Reginald Blotchet-Halls,tuesday  ,22633882
+Sheryl Hunter,tuesday  ,34592392
+Stearns MacFeather,tuesday  ,15022725
+Sylvia Panteley,tuesday  ,45726962
+Abraham Bennet,wednesday,62952174
+Albert Ringer,wednesday,179117763
+Ann Dull,wednesday,8563028
+Anne Ringer,wednesday,12587318
+Burt Gringlesby,wednesday,26240614
+Charlene Locksley,wednesday,23613101
+Cheryl Carson,wednesday,18956020
+Dean Straight,wednesday,83946182
+Dirk Stringer,wednesday,175638692
+Heather McBadden,wednesday,132162302
+Innes del Castillo,wednesday,58667054
+Johnson White,wednesday,31082593
+Livia Karsen,wednesday,104589237
+Marjorie Green,wednesday,22681461
+Meander Smith,wednesday,19879027
+Michael O'Leary,wednesday,45235384
+Michel DeFrance,wednesday,108291633
+Morningstar Greene,wednesday,35172666
+Reginald Blotchet-Halls,wednesday,23077683
+Sheryl Hunter,wednesday,35270674
+Stearns MacFeather,wednesday,15317288
+Sylvia Panteley,wednesday,46623569
+Abraham Bennet,thursday ,64162786
+Albert Ringer,thursday ,182562336
+Ann Dull,thursday ,8727701
+Anne Ringer,thursday ,12829381
+Burt Gringlesby,thursday ,26745242
+Charlene Locksley,thursday ,24067199
+Cheryl Carson,thursday ,19320559
+Dean Straight,thursday ,85560592
+Dirk Stringer,thursday ,179016359
+Heather McBadden,thursday ,134731941
+Innes del Castillo,thursday ,59795267
+Johnson White,thursday ,31681412
+Livia Karsen,thursday ,106671670
+Marjorie Green,thursday ,23117643
+Meander Smith,thursday ,20261718
+Michael O'Leary,thursday ,46105295
+Michel DeFrance,thursday ,110374164
+Morningstar Greene,thursday ,35849064
+Reginald Blotchet-Halls,thursday ,23521485
+Sheryl Hunter,thursday ,35948957
+Stearns MacFeather,thursday ,15611851
+Sylvia Panteley,thursday ,47520176
+Abraham Bennet,friday   ,65373398
+Albert Ringer,friday   ,186006908
+Ann Dull,friday   ,8892375
+Anne Ringer,friday   ,13071445
+Burt Gringlesby,friday   ,27249869
+Charlene Locksley,friday   ,24521297
+Cheryl Carson,friday   ,19685097
+Dean Straight,friday   ,87175002
+Dirk Stringer,friday   ,182394026
+Heather McBadden,friday   ,137301580
+Innes del Castillo,friday   ,60923479
+Johnson White,friday   ,32280231
+Livia Karsen,friday   ,108754102
+Marjorie Green,friday   ,23553825
+Meander Smith,friday   ,20644409
+Michael O'Leary,friday   ,46975206
+Michel DeFrance,friday   ,112456696
+Morningstar Greene,friday   ,36525461
+Reginald Blotchet-Halls,friday   ,23965286
+Sheryl Hunter,friday   ,36627239
+Stearns MacFeather,friday   ,15906414
+Sylvia Panteley,friday   ,48416783
+Abraham Bennet,saturday ,66584010
+Albert Ringer,saturday ,189451480
+Ann Dull,saturday ,9057049
+Anne Ringer,saturday ,13313509
+Burt Gringlesby,saturday ,27754496
+Charlene Locksley,saturday ,24975395
+Cheryl Carson,saturday ,20049636
+Dean Straight,saturday ,88789412
+Dirk Stringer,saturday ,185771693
+Heather McBadden,saturday ,139871219
+Innes del Castillo,saturday ,62051692
+Johnson White,saturday ,32879050
+Livia Karsen,saturday ,110836534
+Marjorie Green,saturday ,23990007
+Meander Smith,saturday ,21027100
+Michael O'Leary,saturday ,47845118
+Michel DeFrance,saturday ,114539227
+Morningstar Greene,saturday ,37201859
+Reginald Blotchet-Halls,saturday ,24409088
+Sheryl Hunter,saturday ,37305521
+Stearns MacFeather,saturday ,16200978
+Sylvia Panteley,saturday ,49313391
+Abraham Bennet,sunday   ,67794622
+Albert Ringer,sunday   ,192896053
+Ann Dull,sunday   ,9221722
+Anne Ringer,sunday   ,13555573
+Burt Gringlesby,sunday   ,28259123
+Charlene Locksley,sunday   ,25429493
+Cheryl Carson,sunday   ,20414175
+Dean Straight,sunday   ,90403822
+Dirk Stringer,sunday   ,189149360
+Heather McBadden,sunday   ,142440858
+Innes del Castillo,sunday   ,63179904
+Johnson White,sunday   ,33477869
+Livia Karsen,sunday   ,112918967
+Marjorie Green,sunday   ,24426189
+Meander Smith,sunday   ,21409791
+Michael O'Leary,sunday   ,48715029
+Michel DeFrance,sunday   ,116621758
+Morningstar Greene,sunday   ,37878256
+Reginald Blotchet-Halls,sunday   ,24852890
+Sheryl Hunter,sunday   ,37983803
+Stearns MacFeather,sunday   ,16495541
+Sylvia Panteley,sunday   ,50209998
+Abraham Bennet,monday   ,69005234
+Albert Ringer,monday   ,196340625
+Ann Dull,monday   ,9386396
+Anne Ringer,monday   ,13797637
+Burt Gringlesby,monday   ,28763750
+Charlene Locksley,monday   ,25883591
+Cheryl Carson,monday   ,20778714
+Dean Straight,monday   ,92018232
+Dirk Stringer,monday   ,192527028
+Heather McBadden,monday   ,145010497
+Innes del Castillo,monday   ,64308117
+Johnson White,monday   ,34076688
+Livia Karsen,monday   ,115001399
+Marjorie Green,monday   ,24862371
+Meander Smith,monday   ,21792481
+Michael O'Leary,monday   ,49584940
+Michel DeFrance,monday   ,118704290
+Morningstar Greene,monday   ,38554654
+Reginald Blotchet-Halls,monday   ,25296691
+Sheryl Hunter,monday   ,38662085
+Stearns MacFeather,monday   ,16790104
+Sylvia Panteley,monday   ,51106605
+Abraham Bennet,tuesday  ,70216132
+Albert Ringer,tuesday  ,199785197
+Ann Dull,tuesday  ,9551069
+Anne Ringer,tuesday  ,14039700
+Burt Gringlesby,tuesday  ,29268378
+Charlene Locksley,tuesday  ,26337689
+Cheryl Carson,tuesday  ,21143253
+Dean Straight,tuesday  ,93632641
+Dirk Stringer,tuesday  ,195904695
+Heather McBadden,tuesday  ,147580136
+Innes del Castillo,tuesday  ,65436330
+Johnson White,tuesday  ,34675507
+Livia Karsen,tuesday  ,117083832
+Marjorie Green,tuesday  ,25298553
+Meander Smith,tuesday  ,22175172
+Michael O'Leary,tuesday  ,50454851
+Michel DeFrance,tuesday  ,120786821
+Morningstar Greene,tuesday  ,39231051
+Reginald Blotchet-Halls,tuesday  ,25740493
+Sheryl Hunter,tuesday  ,39340368
+Stearns MacFeather,tuesday  ,17084667
+Sylvia Panteley,tuesday  ,52003212
+Abraham Bennet,wednesday,71426744
+Albert Ringer,wednesday,203229770
+Ann Dull,wednesday,9715743
+Anne Ringer,wednesday,14281764
+Burt Gringlesby,wednesday,29773005
+Charlene Locksley,wednesday,26791787
+Cheryl Carson,wednesday,21507792
+Dean Straight,wednesday,95247051
+Dirk Stringer,wednesday,199282362
+Heather McBadden,wednesday,150149775
+Innes del Castillo,wednesday,66564542
+Johnson White,wednesday,35274326
+Livia Karsen,wednesday,119166264
+Marjorie Green,wednesday,25734735
+Meander Smith,wednesday,22557863
+Michael O'Leary,wednesday,51324763
+Michel DeFrance,wednesday,122869353
+Morningstar Greene,wednesday,39907448
+Reginald Blotchet-Halls,wednesday,26184294
+Sheryl Hunter,wednesday,40018650
+Stearns MacFeather,wednesday,17379231
+Sylvia Panteley,wednesday,52899819
+Abraham Bennet,thursday ,72637356
+Albert Ringer,thursday ,206674342
+Ann Dull,thursday ,9880417
+Anne Ringer,thursday ,14523828
+Burt Gringlesby,thursday ,30277632
+Charlene Locksley,thursday ,27245885
+Cheryl Carson,thursday ,21872330
+Dean Straight,thursday ,96861461
+Dirk Stringer,thursday ,202660029
+Heather McBadden,thursday ,152719414
+Innes del Castillo,thursday ,67692755
+Johnson White,thursday ,35873145
+Livia Karsen,thursday ,121248697
+Marjorie Green,thursday ,26170917
+Meander Smith,thursday ,22940554
+Michael O'Leary,thursday ,52194674
+Michel DeFrance,thursday ,124951884
+Morningstar Greene,thursday ,40583846
+Reginald Blotchet-Halls,thursday ,26628096
+Sheryl Hunter,thursday ,40696932
+Stearns MacFeather,thursday ,17673794
+Sylvia Panteley,thursday ,53796426
+Abraham Bennet,friday   ,73847968
+Albert Ringer,friday   ,210118915
+Ann Dull,friday   ,10045090
+Anne Ringer,friday   ,14765892
+Burt Gringlesby,friday   ,30782259
+Charlene Locksley,friday   ,27699983
+Cheryl Carson,friday   ,22236869
+Dean Straight,friday   ,98475871
+Dirk Stringer,friday   ,206037696
+Heather McBadden,friday   ,155289053
+Innes del Castillo,friday   ,68820967
+Johnson White,friday   ,36471964
+Livia Karsen,friday   ,123331129
+Marjorie Green,friday   ,26607099
+Meander Smith,friday   ,23323245
+Michael O'Leary,friday   ,53064585
+Michel DeFrance,friday   ,127034415
+Morningstar Greene,friday   ,41260243
+Reginald Blotchet-Halls,friday   ,27071898
+Sheryl Hunter,friday   ,41375214
+Stearns MacFeather,friday   ,17968357
+Sylvia Panteley,friday   ,54693033
+Abraham Bennet,saturday ,75058580
+Albert Ringer,saturday ,213563487
+Ann Dull,saturday ,10209764
+Anne Ringer,saturday ,15007956
+Burt Gringlesby,saturday ,31286886
+Charlene Locksley,saturday ,28154082
+Cheryl Carson,saturday ,22601408
+Dean Straight,saturday ,100090281
+Dirk Stringer,saturday ,209415363
+Heather McBadden,saturday ,157858692
+Innes del Castillo,saturday ,69949180
+Johnson White,saturday ,37070783
+Livia Karsen,saturday ,125413561
+Marjorie Green,saturday ,27043281
+Meander Smith,saturday ,23705935
+Michael O'Leary,saturday ,53934496
+Michel DeFrance,saturday ,129116947
+Morningstar Greene,saturday ,41936641
+Reginald Blotchet-Halls,saturday ,27515699
+Sheryl Hunter,saturday ,42053496
+Stearns MacFeather,saturday ,18262920
+Sylvia Panteley,saturday ,55589640
+Abraham Bennet,sunday   ,76269192
+Albert Ringer,sunday   ,217008059
+Ann Dull,sunday   ,10374437
+Anne Ringer,sunday   ,15250019
+Burt Gringlesby,sunday   ,31791514
+Charlene Locksley,sunday   ,28608180
+Cheryl Carson,sunday   ,22965947
+Dean Straight,sunday   ,101704691
+Dirk Stringer,sunday   ,212793030
+Heather McBadden,sunday   ,160428331
+Innes del Castillo,sunday   ,71077393
+Johnson White,sunday   ,37669602
+Livia Karsen,sunday   ,127495994
+Marjorie Green,sunday   ,27479463
+Meander Smith,sunday   ,24088626
+Michael O'Leary,sunday   ,54804407
+Michel DeFrance,sunday   ,131199478
+Morningstar Greene,sunday   ,42613038
+Reginald Blotchet-Halls,sunday   ,27959501
+Sheryl Hunter,sunday   ,42731779
+Stearns MacFeather,sunday   ,18557483
+Sylvia Panteley,sunday   ,56486247
+Abraham Bennet,monday   ,77479804
+Albert Ringer,monday   ,220452632
+Ann Dull,monday   ,10539111
+Anne Ringer,monday   ,15492083
+Burt Gringlesby,monday   ,32296141
+Charlene Locksley,monday   ,29062278
+Cheryl Carson,monday   ,23330486
+Dean Straight,monday   ,103319101
+Dirk Stringer,monday   ,216170698
+Heather McBadden,monday   ,162997970
+Innes del Castillo,monday   ,72205605
+Johnson White,monday   ,38268422
+Livia Karsen,monday   ,129578426
+Marjorie Green,monday   ,27915645
+Meander Smith,monday   ,24471317
+Michael O'Leary,monday   ,55674319
+Michel DeFrance,monday   ,133282010
+Morningstar Greene,monday   ,43289436
+Reginald Blotchet-Halls,monday   ,28403302
+Sheryl Hunter,monday   ,43410061
+Stearns MacFeather,monday   ,18852047
+Sylvia Panteley,monday   ,57382854
+Abraham Bennet,tuesday  ,78690415
+Albert Ringer,tuesday  ,223897204
+Ann Dull,tuesday  ,10703785
+Anne Ringer,tuesday  ,15734147
+Burt Gringlesby,tuesday  ,32800768
+Charlene Locksley,tuesday  ,29516376
+Cheryl Carson,tuesday  ,23695025
+Dean Straight,tuesday  ,104933511
+Dirk Stringer,tuesday  ,219548365
+Heather McBadden,tuesday  ,165567609
+Innes del Castillo,tuesday  ,73333818
+Johnson White,tuesday  ,38867241
+Livia Karsen,tuesday  ,131660859
+Marjorie Green,tuesday  ,28351827
+Meander Smith,tuesday  ,24854008
+Michael O'Leary,tuesday  ,56544230
+Michel DeFrance,tuesday  ,135364541
+Morningstar Greene,tuesday  ,43965833
+Reginald Blotchet-Halls,tuesday  ,28847104
+Sheryl Hunter,tuesday  ,44088343
+Stearns MacFeather,tuesday  ,19146610
+Sylvia Panteley,tuesday  ,58279462
+Abraham Bennet,wednesday,79901027
+Albert Ringer,wednesday,227341776
+Ann Dull,wednesday,10868458
+Anne Ringer,wednesday,15976211
+Burt Gringlesby,wednesday,33305395
+Charlene Locksley,wednesday,29970474
+Cheryl Carson,wednesday,24059563
+Dean Straight,wednesday,106547920
+Dirk Stringer,wednesday,222926032
+Heather McBadden,wednesday,168137248
+Innes del Castillo,wednesday,74462030
+Johnson White,wednesday,39466060
+Livia Karsen,wednesday,133743291
+Marjorie Green,wednesday,28788009
+Meander Smith,wednesday,25236699
+Michael O'Leary,wednesday,57414141
+Michel DeFrance,wednesday,137447072
+Morningstar Greene,wednesday,44642230
+Reginald Blotchet-Halls,wednesday,29290906
+Sheryl Hunter,wednesday,44766625
+Stearns MacFeather,wednesday,19441173
+Sylvia Panteley,wednesday,59176069
+Abraham Bennet,thursday ,81111639
+Albert Ringer,thursday ,230786349
+Ann Dull,thursday ,11033132
+Anne Ringer,thursday ,16218275
+Burt Gringlesby,thursday ,33810022
+Charlene Locksley,thursday ,30424572
+Cheryl Carson,thursday ,24424102
+Dean Straight,thursday ,108162330
+Dirk Stringer,thursday ,226303699
+Heather McBadden,thursday ,170706887
+Innes del Castillo,thursday ,75590243
+Johnson White,thursday ,40064879
+Livia Karsen,thursday ,135825723
+Marjorie Green,thursday ,29224191
+Meander Smith,thursday ,25619389
+Michael O'Leary,thursday ,58284052
+Michel DeFrance,thursday ,139529604
+Morningstar Greene,thursday ,45318628
+Reginald Blotchet-Halls,thursday ,29734707
+Sheryl Hunter,thursday ,45444907
+Stearns MacFeather,thursday ,19735736
+Sylvia Panteley,thursday ,60072676
+Abraham Bennet,friday   ,82322251
+Albert Ringer,friday   ,234230921
+Ann Dull,friday   ,11197805
+Anne Ringer,friday   ,16460338
+Burt Gringlesby,friday   ,34314650
+Charlene Locksley,friday   ,30878670
+Cheryl Carson,friday   ,24788641
+Dean Straight,friday   ,109776740
+Dirk Stringer,friday   ,229681366
+Heather McBadden,friday   ,173276526
+Innes del Castillo,friday   ,76718455
+Johnson White,friday   ,40663698
+Livia Karsen,friday   ,137908156
+Marjorie Green,friday   ,29660373
+Meander Smith,friday   ,26002080
+Michael O'Leary,friday   ,59153964
+Michel DeFrance,friday   ,141612135
+Morningstar Greene,friday   ,45995025
+Reginald Blotchet-Halls,friday   ,30178509
+Sheryl Hunter,friday   ,46123190
+Stearns MacFeather,friday   ,20030300
+Sylvia Panteley,friday   ,60969283
+Abraham Bennet,saturday ,83532863
+Albert Ringer,saturday ,237675494
+Ann Dull,saturday ,11362479
+Anne Ringer,saturday ,16702402
+Burt Gringlesby,saturday ,34819277
+Charlene Locksley,saturday ,31332768
+Cheryl Carson,saturday ,25153180
+Dean Straight,saturday ,111391150
+Dirk Stringer,saturday ,233059033
+Heather McBadden,saturday ,175846165
+Innes del Castillo,saturday ,77846668
+Johnson White,saturday ,41262517
+Livia Karsen,saturday ,139990588
+Marjorie Green,saturday ,30096555
+Meander Smith,saturday ,26384771
+Michael O'Leary,saturday ,60023875
+Michel DeFrance,saturday ,143694667
+Morningstar Greene,saturday ,46671423
+Reginald Blotchet-Halls,saturday ,30622310
+Sheryl Hunter,saturday ,46801472
+Stearns MacFeather,saturday ,20324863
+Sylvia Panteley,saturday ,61865890
+Abraham Bennet,sunday   ,84743475
+Albert Ringer,sunday   ,241120066
+Ann Dull,sunday   ,11527153
+Anne Ringer,sunday   ,16944466
+Burt Gringlesby,sunday   ,35323904
+Charlene Locksley,sunday   ,31786866
+Cheryl Carson,sunday   ,25517719
+Dean Straight,sunday   ,113005560
+Dirk Stringer,sunday   ,236436701
+Heather McBadden,sunday   ,178415804
+Innes del Castillo,sunday   ,78974881
+Johnson White,sunday   ,41861336
+Livia Karsen,sunday   ,142073021
+Marjorie Green,sunday   ,30532737
+Meander Smith,sunday   ,26767462
+Michael O'Leary,sunday   ,60893786
+Michel DeFrance,sunday   ,145777198
+Morningstar Greene,sunday   ,47347820
+Reginald Blotchet-Halls,sunday   ,31066112
+Sheryl Hunter,sunday   ,47479754
+Stearns MacFeather,sunday   ,20619426
+Sylvia Panteley,sunday   ,62762497
+Abraham Bennet,monday   ,85954087
+Albert Ringer,monday   ,244564638
+Ann Dull,monday   ,11691826
+Anne Ringer,monday   ,17186530
+Burt Gringlesby,monday   ,35828531
+Charlene Locksley,monday   ,32240964
+Cheryl Carson,monday   ,25882258
+Dean Straight,monday   ,114619970
+Dirk Stringer,monday   ,239814368
+Heather McBadden,monday   ,180985443
+Innes del Castillo,monday   ,80103093
+Johnson White,monday   ,42460155
+Livia Karsen,monday   ,144155453
+Marjorie Green,monday   ,30968918
+Meander Smith,monday   ,27150153
+Michael O'Leary,monday   ,61763697
+Michel DeFrance,monday   ,147859729
+Morningstar Greene,monday   ,48024218
+Reginald Blotchet-Halls,monday   ,31509914
+Sheryl Hunter,monday   ,48158036
+Stearns MacFeather,monday   ,20913989
+Sylvia Panteley,monday   ,63659104
+Abraham Bennet,tuesday  ,87164699
+Albert Ringer,tuesday  ,248009211
+Ann Dull,tuesday  ,11856500
+Anne Ringer,tuesday  ,17428594
+Burt Gringlesby,tuesday  ,36333158
+Charlene Locksley,tuesday  ,32695062
+Cheryl Carson,tuesday  ,26246796
+Dean Straight,tuesday  ,116234380
+Dirk Stringer,tuesday  ,243192035
+Heather McBadden,tuesday  ,183555082
+Innes del Castillo,tuesday  ,81231306
+Johnson White,tuesday  ,43058974
+Livia Karsen,tuesday  ,146237885
+Marjorie Green,tuesday  ,31405100
+Meander Smith,tuesday  ,27532843
+Michael O'Leary,tuesday  ,62633609
+Michel DeFrance,tuesday  ,149942261
+Morningstar Greene,tuesday  ,48700615
+Reginald Blotchet-Halls,tuesday  ,31953715
+Sheryl Hunter,tuesday  ,48836318
+Stearns MacFeather,tuesday  ,21208553
+Sylvia Panteley,tuesday  ,64555711
+Abraham Bennet,wednesday,88375311
+Albert Ringer,wednesday,251453783
+Ann Dull,wednesday,12021174
+Anne Ringer,wednesday,17670657
+Burt Gringlesby,wednesday,36837786
+Charlene Locksley,wednesday,33149161
+Cheryl Carson,wednesday,26611335
+Dean Straight,wednesday,117848789
+Dirk Stringer,wednesday,246569702
+Heather McBadden,wednesday,186124721
+Innes del Castillo,wednesday,82359518
+Johnson White,wednesday,43657793
+Livia Karsen,wednesday,148320318
+Marjorie Green,wednesday,31841282
+Meander Smith,wednesday,27915534
+Michael O'Leary,wednesday,63503520
+Michel DeFrance,wednesday,152024792
+Morningstar Greene,wednesday,49377012
+Reginald Blotchet-Halls,wednesday,32397517
+Sheryl Hunter,wednesday,49514601
+Stearns MacFeather,wednesday,21503116
+Sylvia Panteley,wednesday,65452318
+Abraham Bennet,thursday ,89585923
+Albert Ringer,thursday ,254581918
+Ann Dull,thursday ,12185847
+Anne Ringer,thursday ,17912721
+Burt Gringlesby,thursday ,37342413
+Charlene Locksley,thursday ,33603259
+Cheryl Carson,thursday ,26975874
+Dean Straight,thursday ,119463199
+Dirk Stringer,thursday ,249947369
+Heather McBadden,thursday ,188694360
+Innes del Castillo,thursday ,83487731
+Johnson White,thursday ,44256612
+Livia Karsen,thursday ,150402750
+Marjorie Green,thursday ,32277464
+Meander Smith,thursday ,28298225
+Michael O'Leary,thursday ,64373431
+Michel DeFrance,thursday ,154107324
+Morningstar Greene,thursday ,50053410
+Reginald Blotchet-Halls,thursday ,32841318
+Sheryl Hunter,thursday ,50192883
+Stearns MacFeather,thursday ,21797679
+Sylvia Panteley,thursday ,66348925
+Abraham Bennet,friday   ,90796535
+Albert Ringer,friday   ,258026491
+Ann Dull,friday   ,12350521
+Anne Ringer,friday   ,18154785
+Burt Gringlesby,friday   ,37847040
+Charlene Locksley,friday   ,34057357
+Cheryl Carson,friday   ,27340413
+Dean Straight,friday   ,121077609
+Dirk Stringer,friday   ,253325036
+Heather McBadden,friday   ,191263999
+Innes del Castillo,friday   ,84615944
+Johnson White,friday   ,44855431
+Livia Karsen,friday   ,152485183
+Marjorie Green,friday   ,32713646
+Meander Smith,friday   ,28680916
+Michael O'Leary,friday   ,65243342
+Michel DeFrance,friday   ,156189855
+Morningstar Greene,friday   ,50729807
+Reginald Blotchet-Halls,friday   ,33285120
+Sheryl Hunter,friday   ,50871165
+Stearns MacFeather,friday   ,22092242
+Sylvia Panteley,friday   ,67245533
+Abraham Bennet,saturday ,92007147
+Albert Ringer,saturday ,261471063
+Ann Dull,saturday ,12515194
+Anne Ringer,saturday ,18396849
+Burt Gringlesby,saturday ,38351667
+Charlene Locksley,saturday ,34511455
+Cheryl Carson,saturday ,27704952
+Dean Straight,saturday ,122692019
+Dirk Stringer,saturday ,256702703
+Heather McBadden,saturday ,193833638
+Innes del Castillo,saturday ,85744156
+Johnson White,saturday ,45454250
+Livia Karsen,saturday ,154567615
+Marjorie Green,saturday ,33149828
+Meander Smith,saturday ,29063607
+Michael O'Leary,saturday ,66113253
+Michel DeFrance,saturday ,158272386
+Morningstar Greene,saturday ,51406205
+Reginald Blotchet-Halls,saturday ,33728922
+Sheryl Hunter,saturday ,51549447
+Stearns MacFeather,saturday ,22386805
+Sylvia Panteley,saturday ,68142140
+Abraham Bennet,sunday   ,93217775
+Albert Ringer,sunday   ,264915635
+Ann Dull,sunday   ,12679868
+Anne Ringer,sunday   ,18638913
+Burt Gringlesby,sunday   ,38856294
+Charlene Locksley,sunday   ,34965553
+Cheryl Carson,sunday   ,28069491
+Dean Straight,sunday   ,124306429
+Dirk Stringer,sunday   ,260080371
+Heather McBadden,sunday   ,196403277
+Innes del Castillo,sunday   ,86872369
+Johnson White,sunday   ,46053069
+Livia Karsen,sunday   ,156650048
+Marjorie Green,sunday   ,33586010
+Meander Smith,sunday   ,29446297
+Michael O'Leary,sunday   ,66983165
+Michel DeFrance,sunday   ,160354918
+Morningstar Greene,sunday   ,52082602
+Reginald Blotchet-Halls,sunday   ,34172723
+Sheryl Hunter,sunday   ,52227729
+Stearns MacFeather,sunday   ,22681369
+Sylvia Panteley,sunday   ,69038747
+Abraham Bennet,monday   ,94428387
+Albert Ringer,monday   ,268360208
+Ann Dull,monday   ,12844542
+Anne Ringer,monday   ,18880976
+Burt Gringlesby,monday   ,39360922
+Charlene Locksley,monday   ,35419651
+Cheryl Carson,monday   ,28434030
+Dean Straight,monday   ,125920839
+Dirk Stringer,monday   ,263458038
+Heather McBadden,monday   ,198972916
+Innes del Castillo,monday   ,88000581
+Johnson White,monday   ,46651888
+Livia Karsen,monday   ,158732480
+Marjorie Green,monday   ,34022192
+Meander Smith,monday   ,29828988
+Michael O'Leary,monday   ,67853076
+Michel DeFrance,monday   ,162437449
+Morningstar Greene,monday   ,52759000
+Reginald Blotchet-Halls,monday   ,34616525
+Sheryl Hunter,monday   ,52906012
+Stearns MacFeather,monday   ,22975932
+Sylvia Panteley,monday   ,69935354
+Abraham Bennet,tuesday  ,95638998
+Albert Ringer,tuesday  ,271804780
+Ann Dull,tuesday  ,13009215
+Anne Ringer,tuesday  ,19123040
+Burt Gringlesby,tuesday  ,39865549
+Charlene Locksley,tuesday  ,35873749
+Cheryl Carson,tuesday  ,28798568
+Dean Straight,tuesday  ,127535249
+Dirk Stringer,tuesday  ,266835705
+Heather McBadden,tuesday  ,201542555
+Innes del Castillo,tuesday  ,89128794
+Johnson White,tuesday  ,47250707
+Livia Karsen,tuesday  ,160814912
+Marjorie Green,tuesday  ,34458374
+Meander Smith,tuesday  ,30211679
+Michael O'Leary,tuesday  ,68722987
+Michel DeFrance,tuesday  ,164519981
+Morningstar Greene,tuesday  ,53435397
+Reginald Blotchet-Halls,tuesday  ,35060326
+Sheryl Hunter,tuesday  ,53584294
+Stearns MacFeather,tuesday  ,23270495
+Sylvia Panteley,tuesday  ,70831961
+Abraham Bennet,wednesday,96849610
+Albert Ringer,wednesday,275249353
+Ann Dull,wednesday,13173889
+Anne Ringer,wednesday,19365104
+Burt Gringlesby,wednesday,40370176
+Charlene Locksley,wednesday,36327847
+Cheryl Carson,wednesday,29163107
+Dean Straight,wednesday,129149658
+Dirk Stringer,wednesday,270213372
+Heather McBadden,wednesday,204112194
+Innes del Castillo,wednesday,90257006
+Johnson White,wednesday,47849526
+Livia Karsen,wednesday,162897345
+Marjorie Green,wednesday,34894556
+Meander Smith,wednesday,30594370
+Michael O'Leary,wednesday,69592898
+Michel DeFrance,wednesday,166602512
+Morningstar Greene,wednesday,54111794
+Reginald Blotchet-Halls,wednesday,35504128
+Sheryl Hunter,wednesday,54262576
+Stearns MacFeather,wednesday,23565058
+Sylvia Panteley,wednesday,71728568
+Abraham Bennet,thursday ,98060222
+Albert Ringer,thursday ,278693925
+Ann Dull,thursday ,13338562
+Anne Ringer,thursday ,19607168
+Burt Gringlesby,thursday ,40874803
+Charlene Locksley,thursday ,36781945
+Cheryl Carson,thursday ,29527646
+Dean Straight,thursday ,130764068
+Dirk Stringer,thursday ,273591039
+Heather McBadden,thursday ,206681833
+Innes del Castillo,thursday ,91385219
+Johnson White,thursday ,48448345
+Livia Karsen,thursday ,164979777
+Marjorie Green,thursday ,35330738
+Meander Smith,thursday ,30977061
+Michael O'Leary,thursday ,70462810
+Michel DeFrance,thursday ,168685043
+Morningstar Greene,thursday ,54788192
+Reginald Blotchet-Halls,thursday ,35947930
+Sheryl Hunter,thursday ,54940858
+Stearns MacFeather,thursday ,23859622
+Sylvia Panteley,thursday ,71945259
+Abraham Bennet,friday   ,99270834
+Albert Ringer,friday   ,282138497
+Ann Dull,friday   ,13503236
+Anne Ringer,friday   ,19849232
+Burt Gringlesby,friday   ,41379430
+Charlene Locksley,friday   ,37236043
+Cheryl Carson,friday   ,29892185
+Dean Straight,friday   ,132378478
+Dirk Stringer,friday   ,276968706
+Heather McBadden,friday   ,209251472
+Innes del Castillo,friday   ,92513432
+Johnson White,friday   ,49047165
+Livia Karsen,friday   ,167062210
+Marjorie Green,friday   ,35766920
+Meander Smith,friday   ,31359751
+Michael O'Leary,friday   ,71332721
+Michel DeFrance,friday   ,170767575
+Morningstar Greene,friday   ,55464589
+Reginald Blotchet-Halls,friday   ,36391731
+Sheryl Hunter,friday   ,55619140
+Stearns MacFeather,friday   ,24154185
+Sylvia Panteley,friday   ,72841866
+Abraham Bennet,saturday ,100481446
+Albert Ringer,saturday ,285583070
+Ann Dull,saturday ,13667910
+Anne Ringer,saturday ,20091295
+Burt Gringlesby,saturday ,41884058
+Charlene Locksley,saturday ,37690141
+Cheryl Carson,saturday ,30256724
+Dean Straight,saturday ,133992888
+Dirk Stringer,saturday ,280346373
+Heather McBadden,saturday ,211821111
+Innes del Castillo,saturday ,93641644
+Johnson White,saturday ,49645984
+Livia Karsen,saturday ,169144642
+Marjorie Green,saturday ,36203102
+Meander Smith,saturday ,31742442
+Michael O'Leary,saturday ,72202632
+Michel DeFrance,saturday ,172850106
+Morningstar Greene,saturday ,56140987
+Reginald Blotchet-Halls,saturday ,36835533
+Sheryl Hunter,saturday ,56297423
+Stearns MacFeather,saturday ,24448748
+Sylvia Panteley,saturday ,73738473
+Abraham Bennet,sunday   ,101692058
+Albert Ringer,sunday   ,289027642
+Ann Dull,sunday   ,13832583
+Anne Ringer,sunday   ,20333359
+Burt Gringlesby,sunday   ,42388685
+Charlene Locksley,sunday   ,38144240
+Cheryl Carson,sunday   ,30621263
+Dean Straight,sunday   ,135607298
+Dirk Stringer,sunday   ,283724041
+Heather McBadden,sunday   ,214390750
+Innes del Castillo,sunday   ,94769857
+Johnson White,sunday   ,50244803
+Livia Karsen,sunday   ,171227074
+Marjorie Green,sunday   ,36639284
+Meander Smith,sunday   ,32125133
+Michael O'Leary,sunday   ,73072543
+Michel DeFrance,sunday   ,174932638
+Morningstar Greene,sunday   ,56817384
+Reginald Blotchet-Halls,sunday   ,37279334
+Sheryl Hunter,sunday   ,56975705
+Stearns MacFeather,sunday   ,24743311
+Sylvia Panteley,sunday   ,74635080
+Abraham Bennet,monday   ,102902670
+Albert Ringer,monday   ,292472214
+Ann Dull,monday   ,13997257
+Anne Ringer,monday   ,20575423
+Burt Gringlesby,monday   ,42893312
+Charlene Locksley,monday   ,38598338
+Cheryl Carson,monday   ,30985801
+Dean Straight,monday   ,137221708
+Dirk Stringer,monday   ,287101708
+Heather McBadden,monday   ,216960390
+Innes del Castillo,monday   ,95898069
+Johnson White,monday   ,50843622
+Livia Karsen,monday   ,173309507
+Marjorie Green,monday   ,37075466
+Meander Smith,monday   ,32507824
+Michael O'Leary,monday   ,73942455
+Michel DeFrance,monday   ,177015169
+Morningstar Greene,monday   ,57493782
+Reginald Blotchet-Halls,monday   ,37723136
+Sheryl Hunter,monday   ,57653987
+Stearns MacFeather,monday   ,25037875
+Sylvia Panteley,monday   ,75531688
+Abraham Bennet,tuesday  ,104113282
+Albert Ringer,tuesday  ,295916787
+Ann Dull,tuesday  ,14161930
+Anne Ringer,tuesday  ,20817487
+Burt Gringlesby,tuesday  ,43397939
+Charlene Locksley,tuesday  ,39052436
+Cheryl Carson,tuesday  ,31350340
+Dean Straight,tuesday  ,138836118
+Dirk Stringer,tuesday  ,290479375
+Heather McBadden,tuesday  ,219530029
+Innes del Castillo,tuesday  ,97026282
+Johnson White,tuesday  ,51442441
+Livia Karsen,tuesday  ,175391939
+Marjorie Green,tuesday  ,37511648
+Meander Smith,tuesday  ,32890515
+Michael O'Leary,tuesday  ,74812366
+Michel DeFrance,tuesday  ,179097700
+Morningstar Greene,tuesday  ,58170179
+Reginald Blotchet-Halls,tuesday  ,38166938
+Sheryl Hunter,tuesday  ,58332269
+Stearns MacFeather,tuesday  ,25332438
+Sylvia Panteley,tuesday  ,76428295
+Abraham Bennet,wednesday,105323894
+Albert Ringer,wednesday,299361359
+Ann Dull,wednesday,14326604
+Anne Ringer,wednesday,21059551
+Burt Gringlesby,wednesday,43902566
+Charlene Locksley,wednesday,39506534
+Cheryl Carson,wednesday,31714879
+Dean Straight,wednesday,140450527
+Dirk Stringer,wednesday,293857042
+Heather McBadden,wednesday,222099668
+Innes del Castillo,wednesday,98154494
+Johnson White,wednesday,52041260
+Livia Karsen,wednesday,177474372
+Marjorie Green,wednesday,37947830
+Meander Smith,wednesday,33273205
+Michael O'Leary,wednesday,75682277
+Michel DeFrance,wednesday,181180232
+Morningstar Greene,wednesday,58846576
+Reginald Blotchet-Halls,wednesday,38610739
+Sheryl Hunter,wednesday,59010551
+Stearns MacFeather,wednesday,25627001
+Sylvia Panteley,wednesday,77324902
+Abraham Bennet,thursday ,106534506
+Albert Ringer,thursday ,302805931
+Ann Dull,thursday ,14491278
+Anne Ringer,thursday ,21301614
+Burt Gringlesby,thursday ,44407194
+Charlene Locksley,thursday ,39960632
+Cheryl Carson,thursday ,32079418
+Dean Straight,thursday ,142064937
+Dirk Stringer,thursday ,297234709
+Heather McBadden,thursday ,224669307
+Innes del Castillo,thursday ,99282707
+Johnson White,thursday ,52640079
+Livia Karsen,thursday ,179556804
+Marjorie Green,thursday ,38384012
+Meander Smith,thursday ,33655896
+Michael O'Leary,thursday ,76552188
+Michel DeFrance,thursday ,183262763
+Morningstar Greene,thursday ,59522974
+Reginald Blotchet-Halls,thursday ,39054541
+Sheryl Hunter,thursday ,59688834
+Stearns MacFeather,thursday ,25921564
+Sylvia Panteley,thursday ,78221509
+Abraham Bennet,friday   ,107745118
+Albert Ringer,friday   ,306250504
+Ann Dull,friday   ,14655951
+Anne Ringer,friday   ,21543678
+Burt Gringlesby,friday   ,44911821
+Charlene Locksley,friday   ,40414730
+Cheryl Carson,friday   ,32443957
+Dean Straight,friday   ,143679347
+Dirk Stringer,friday   ,300612376
+Heather McBadden,friday   ,227238946
+Innes del Castillo,friday   ,100410920
+Johnson White,friday   ,53238898
+Livia Karsen,friday   ,181639236
+Marjorie Green,friday   ,38820194
+Meander Smith,friday   ,34038587
+Michael O'Leary,friday   ,77422099
+Michel DeFrance,friday   ,185345295
+Morningstar Greene,friday   ,60199371
+Reginald Blotchet-Halls,friday   ,39498342
+Sheryl Hunter,friday   ,60367116
+Stearns MacFeather,friday   ,26216127
+Sylvia Panteley,friday   ,79118116
+Abraham Bennet,saturday ,108955730
+Albert Ringer,saturday ,309695076
+Ann Dull,saturday ,14820625
+Anne Ringer,saturday ,21785742
+Burt Gringlesby,saturday ,45416448
+Charlene Locksley,saturday ,40868828
+Cheryl Carson,saturday ,32808496
+Dean Straight,saturday ,145293757
+Dirk Stringer,saturday ,303990044
+Heather McBadden,saturday ,229808585
+Innes del Castillo,saturday ,101539132
+Johnson White,saturday ,53837717
+Livia Karsen,saturday ,183721669
+Marjorie Green,saturday ,39256376
+Meander Smith,saturday ,34421278
+Michael O'Leary,saturday ,78292011
+Michel DeFrance,saturday ,187427826
+Morningstar Greene,saturday ,60875769
+Reginald Blotchet-Halls,saturday ,39942144
+Sheryl Hunter,saturday ,61045398
+Stearns MacFeather,saturday ,26510691
+Sylvia Panteley,saturday ,80014723
+Abraham Bennet,sunday   ,110166342
+Albert Ringer,sunday   ,313139649
+Ann Dull,sunday   ,14985299
+Anne Ringer,sunday   ,22027806
+Burt Gringlesby,sunday   ,45921075
+Charlene Locksley,sunday   ,41322926
+Cheryl Carson,sunday   ,33173034
+Dean Straight,sunday   ,146908167
+Dirk Stringer,sunday   ,307367711
+Heather McBadden,sunday   ,232378224
+Innes del Castillo,sunday   ,102667345
+Johnson White,sunday   ,54436536
+Livia Karsen,sunday   ,185804101
+Marjorie Green,sunday   ,39692557
+Meander Smith,sunday   ,34803969
+Michael O'Leary,sunday   ,79161922
+Michel DeFrance,sunday   ,189510357
+Morningstar Greene,sunday   ,61552166
+Reginald Blotchet-Halls,sunday   ,40385946
+Sheryl Hunter,sunday   ,61723680
+Stearns MacFeather,sunday   ,26805254
+Sylvia Panteley,sunday   ,80911330
+Abraham Bennet,monday   ,111376954
+Albert Ringer,monday   ,316584221
+Ann Dull,monday   ,15149972
+Anne Ringer,monday   ,22269870
+Burt Gringlesby,monday   ,46425702
+Charlene Locksley,monday   ,41777024
+Cheryl Carson,monday   ,33537573
+Dean Straight,monday   ,148522577
+Dirk Stringer,monday   ,310745378
+Heather McBadden,monday   ,234947863
+Innes del Castillo,monday   ,103795557
+Johnson White,monday   ,55035355
+Livia Karsen,monday   ,187886534
+Marjorie Green,monday   ,40128739
+Meander Smith,monday   ,35186659
+Michael O'Leary,monday   ,80031833
+Michel DeFrance,monday   ,191592889
+Morningstar Greene,monday   ,62228564
+Reginald Blotchet-Halls,monday   ,40829747
+Sheryl Hunter,monday   ,62401962
+Stearns MacFeather,monday   ,27099817
+Sylvia Panteley,monday   ,81807937
+Abraham Bennet,tuesday  ,112587565
+Albert Ringer,tuesday  ,320028793
+Ann Dull,tuesday  ,15314646
+Anne Ringer,tuesday  ,22511933
+Burt Gringlesby,tuesday  ,46930330
+Charlene Locksley,tuesday  ,42231122
+Cheryl Carson,tuesday  ,33902112
+Dean Straight,tuesday  ,150136987
+Dirk Stringer,tuesday  ,314123045
+Heather McBadden,tuesday  ,237517502
+Innes del Castillo,tuesday  ,104923770
+Johnson White,tuesday  ,55634174
+Livia Karsen,tuesday  ,189968966
+Marjorie Green,tuesday  ,40564921
+Meander Smith,tuesday  ,35569350
+Michael O'Leary,tuesday  ,80901744
+Michel DeFrance,tuesday  ,193675420
+Morningstar Greene,tuesday  ,62904961
+Reginald Blotchet-Halls,tuesday  ,41273549
+Sheryl Hunter,tuesday  ,63080245
+Stearns MacFeather,tuesday  ,27394380
+Sylvia Panteley,tuesday  ,82704544
+Abraham Bennet,wednesday,113798177
+Albert Ringer,wednesday,323473366
+Ann Dull,wednesday,15479319
+Anne Ringer,wednesday,22753997
+Burt Gringlesby,wednesday,47434957
+Charlene Locksley,wednesday,42685220
+Cheryl Carson,wednesday,34266651
+Dean Straight,wednesday,151751396
+Dirk Stringer,wednesday,317500712
+Heather McBadden,wednesday,240087141
+Innes del Castillo,wednesday,106051983
+Johnson White,wednesday,56232993
+Livia Karsen,wednesday,192051398
+Marjorie Green,wednesday,41001103
+Meander Smith,wednesday,35952041
+Michael O'Leary,wednesday,81771656
+Michel DeFrance,wednesday,195757952
+Morningstar Greene,wednesday,63581358
+Reginald Blotchet-Halls,wednesday,41717350
+Sheryl Hunter,wednesday,63758527
+Stearns MacFeather,wednesday,27688944
+Sylvia Panteley,wednesday,83601151
+Abraham Bennet,thursday ,115008789
+Albert Ringer,thursday ,326917938
+Ann Dull,thursday ,15643993
+Anne Ringer,thursday ,22996061
+Burt Gringlesby,thursday ,47939584
+Charlene Locksley,thursday ,43139319
+Cheryl Carson,thursday ,34631190
+Dean Straight,thursday ,153365806
+Dirk Stringer,thursday ,320878379
+Heather McBadden,thursday ,242656780
+Innes del Castillo,thursday ,107180195
+Johnson White,thursday ,56831812
+Livia Karsen,thursday ,194133831
+Marjorie Green,thursday ,41437285
+Meander Smith,thursday ,36334732
+Michael O'Leary,thursday ,82641567
+Michel DeFrance,thursday ,197840483
+Morningstar Greene,thursday ,64257756
+Reginald Blotchet-Halls,thursday ,42161152
+Sheryl Hunter,thursday ,64436809
+Stearns MacFeather,thursday ,27983507
+Sylvia Panteley,thursday ,84497759
+Abraham Bennet,friday   ,116219401
+Albert Ringer,friday   ,330362510
+Ann Dull,friday   ,15808667
+Anne Ringer,friday   ,23238125
+Burt Gringlesby,friday   ,48444211
+Charlene Locksley,friday   ,43593417
+Cheryl Carson,friday   ,34995729
+Dean Straight,friday   ,154980216
+Dirk Stringer,friday   ,324256046
+Heather McBadden,friday   ,245226419
+Innes del Castillo,friday   ,108308408
+Johnson White,friday   ,57430631
+Livia Karsen,friday   ,196216263
+Marjorie Green,friday   ,41873467
+Meander Smith,friday   ,36717423
+Michael O'Leary,friday   ,83511478
+Michel DeFrance,friday   ,199923014
+Morningstar Greene,friday   ,64934153
+Reginald Blotchet-Halls,friday   ,42604954
+Sheryl Hunter,friday   ,65115091
+Stearns MacFeather,friday   ,28278070
+Sylvia Panteley,friday   ,85394366
+Abraham Bennet,saturday ,117430013
+Albert Ringer,saturday ,333807083
+Ann Dull,saturday ,15973340
+Anne Ringer,saturday ,23480189
+Burt Gringlesby,saturday ,48948838
+Charlene Locksley,saturday ,44047515
+Cheryl Carson,saturday ,35360267
+Dean Straight,saturday ,156594626
+Dirk Stringer,saturday ,327633714
+Heather McBadden,saturday ,247796058
+Innes del Castillo,saturday ,109436620
+Johnson White,saturday ,58029450
+Livia Karsen,saturday ,198298696
+Marjorie Green,saturday ,42309649
+Meander Smith,saturday ,37100113
+Michael O'Leary,saturday ,84381389
+Michel DeFrance,saturday ,202005546
+Morningstar Greene,saturday ,65610551
+Reginald Blotchet-Halls,saturday ,43048755
+Sheryl Hunter,saturday ,65793373
+Stearns MacFeather,saturday ,28572633
+Sylvia Panteley,saturday ,86290973
+Abraham Bennet,sunday   ,118640625
+Albert Ringer,sunday   ,337251655
+Ann Dull,sunday   ,16138014
+Anne Ringer,sunday   ,23722252
+Burt Gringlesby,sunday   ,49453466
+Charlene Locksley,sunday   ,44501613
+Cheryl Carson,sunday   ,35724806
+Dean Straight,sunday   ,158209036
+Dirk Stringer,sunday   ,331011381
+Heather McBadden,sunday   ,250365697
+Innes del Castillo,sunday   ,110564833
+Johnson White,sunday   ,58628269
+Livia Karsen,sunday   ,200381128
+Marjorie Green,sunday   ,42745831
+Meander Smith,sunday   ,37482804
+Michael O'Leary,sunday   ,85251301
+Michel DeFrance,sunday   ,204088077
+Morningstar Greene,sunday   ,66286948
+Reginald Blotchet-Halls,sunday   ,43492557
+Sheryl Hunter,sunday   ,66471656
+Stearns MacFeather,sunday   ,28867197
+Sylvia Panteley,sunday   ,87187580
+Abraham Bennet,monday   ,119851237
+Albert Ringer,monday   ,340696228
+Ann Dull,monday   ,16302687
+Anne Ringer,monday   ,23964316
+Burt Gringlesby,monday   ,49958093
+Charlene Locksley,monday   ,44955711
+Cheryl Carson,monday   ,36089345
+Dean Straight,monday   ,159823446
+Dirk Stringer,monday   ,334389048
+Heather McBadden,monday   ,252935336
+Innes del Castillo,monday   ,111693045
+Johnson White,monday   ,59227088
+Livia Karsen,monday   ,202463561
+Marjorie Green,monday   ,43182013
+Meander Smith,monday   ,37865495
+Michael O'Leary,monday   ,86121212
+Michel DeFrance,monday   ,206170609
+Morningstar Greene,monday   ,66963346
+Reginald Blotchet-Halls,monday   ,43936358
+Sheryl Hunter,monday   ,67149938
+Stearns MacFeather,monday   ,29161760
+Sylvia Panteley,monday   ,88084187
+Abraham Bennet,tuesday  ,121061849
+Albert Ringer,tuesday  ,344140800
+Ann Dull,tuesday  ,16467361
+Anne Ringer,tuesday  ,24206380
+Burt Gringlesby,tuesday  ,50462720
+Charlene Locksley,tuesday  ,45409809
+Cheryl Carson,tuesday  ,36453884
+Dean Straight,tuesday  ,161437856
+Dirk Stringer,tuesday  ,337766715
+Heather McBadden,tuesday  ,255504975
+Innes del Castillo,tuesday  ,112821258
+Johnson White,tuesday  ,59825908
+Livia Karsen,tuesday  ,204545993
+Marjorie Green,tuesday  ,43618195
+Meander Smith,tuesday  ,38248186
+Michael O'Leary,tuesday  ,86991123
+Michel DeFrance,tuesday  ,208253140
+Morningstar Greene,tuesday  ,67639743
+Reginald Blotchet-Halls,tuesday  ,44380160
+Sheryl Hunter,tuesday  ,67828220
+Stearns MacFeather,tuesday  ,29456323
+Sylvia Panteley,tuesday  ,88980794
+Akiko Yokomoto,,
