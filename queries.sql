@@ -1,7 +1,7 @@
 SELECT COUNT(customer_id) AS customer_count -- подсчитываем количество ID покупателей
 FROM customers -- в таблице customers
 
-## Step 5.1
+/** Step 5.1 **/
 select
   concat(e.first_name, ' ', e.last_name) as name,           -- cоставляем полное имя продавца из его имени и фамилии
   count(s.sales_person_id) as operations,                   -- подсчитываем количество операций на каждого продавца
