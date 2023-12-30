@@ -33,10 +33,10 @@ left join products p
 group by e.employee_id, s.customer_id, s.sale_date, s.quantity, p.price, p.name) -- группируем данные по всем указанным ранее параметрам
 
 select
-	distinct t.name,                                          -- выбираем полное имя продавца из CTE; distinct помогает избавиться от дублирующихся строк
-	t.date,                                                   -- выбираем дату продажи (к сожалениию, не понимаю, как обойтись без нее в целях сортировки)
-	t.weekday,                                                -- выбираем день продажи
+	distinct t.name,                                     -- выбираем полное имя продавца из CTE; distinct помогает избавиться от дублирующихся строк
+	t.date,                                              -- выбираем дату продажи (к сожалениию, не понимаю, как обойтись без нее в целях сортировки)
+	t.weekday,                                           -- выбираем день продажи
 	round(sum(t.quantity * t.price) over (partition by t.name order by t.date),0) as income -- считаем суммарный доход по продавцу на каждую из дат
-from tab as t                                               -- выбираем данные из CTE tab
-group by t.date, weekday, t.name, t.quantity, t.price       -- группируем данные по всем указанным ранее параметрам
-order by t.date, t.name                                     -- сортируем данные по дате и имени продавца   
+from tab as t                                                -- выбираем данные из CTE tab
+group by t.date, weekday, t.name, t.quantity, t.price        -- группируем данные по всем указанным ранее параметрам
+order by t.date, t.name                                      -- сортируем данные по дате и имени продавца   
