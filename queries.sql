@@ -1,5 +1,5 @@
-SELECT COUNT(customer_id) AS customer_count -- подсчитываем количество ID покупателей
-FROM customers -- в таблице customers
+SELECT COUNT(customer_id) AS customer_count 		    -- подсчитываем количество ID покупателей
+FROM customers 						    -- в таблице customers
 
 /** Step 5.1 **/
 select
